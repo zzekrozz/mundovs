@@ -224,10 +224,24 @@ function Home({ countryA, countryB, onPickCountry, onStart, onRandom, onPopular,
   return (
     <>
       <div className="hero">
-        <span className="hero-tag">Juego de geografía</span>
-        <h1 className="hero-title">¿Crees que conoces el mundo?<br /><em>Demuéstralo.</em></h1>
-        <p className="hero-sub">Compara dos países en 5 categorías sorpresa. Adivina quién gana en cada una.</p>
-      </div>
+  <span className="hero-tag">Juego de geografía</span>
+
+  <h1 className="hero-title">
+    ¿Crees que conoces el mundo?<br />
+    <em>Demuéstralo.</em>
+  </h1>
+
+  <p className="hero-sub">
+    Compara dos países en 5 categorías sorpresa.
+    Adivina quién gana en cada una.
+  </p>
+
+  <div className="alpha-badge">
+    <span>ALPHA v1.0.1</span>
+    <span className="dot">•</span>
+    <span>Nuevas preguntas y modos cada semana ⚡</span>
+  </div>
+</div>
 
       {/* Modo Challenger destacado */}
       <div className="challenger-promo" onClick={onChallenger}>
