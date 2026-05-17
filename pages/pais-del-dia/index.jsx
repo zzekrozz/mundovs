@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Layout from "../components/Layout";
-import PaisDelDia from "../components/PaisDelDia";
+import PaisDelDia from "../../components/PaisDelDia";
 
 export default function PaisDelDiaPage() {
   return (
