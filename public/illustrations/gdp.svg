@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" preserveAspectRatio="xMidYMid slice">
+  <g opacity="0.45">
+    <rect x="40" y="180" width="55" height="180" rx="2" fill="#D4B14A"/>
+    <rect x="105" y="140" width="60" height="220" rx="2" fill="#B8941E"/>
+    <rect x="175" y="220" width="50" height="140" rx="2" fill="#D4B14A"/>
+    <rect x="235" y="160" width="65" height="200" rx="2" fill="#A6840E"/>
+    <rect x="500" y="200" width="55" height="160" rx="2" fill="#D4B14A"/>
+    <rect x="565" y="140" width="60" height="220" rx="2" fill="#B8941E"/>
+    <rect x="635" y="180" width="55" height="180" rx="2" fill="#D4B14A"/>
+    <rect x="700" y="160" width="60" height="200" rx="2" fill="#A6840E"/>
+  </g>
+  <g opacity="0.5" fill="none" stroke="#7A6010" stroke-width="3">
+    <polyline points="50,120 130,90 210,100 290,60 370,70 450,40 530,50 610,30 690,40 760,20"/>
+  </g>
+  <g opacity="0.6" fill="#7A6010">
+    <circle cx="50" cy="120" r="4"/><circle cx="290" cy="60" r="4"/>
+    <circle cx="450" cy="40" r="4"/><circle cx="690" cy="40" r="4"/>
+  </g>
+</svg>
