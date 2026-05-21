@@ -1,0 +1,7471 @@
+{
+  "AF": {
+    "code": "AF",
+    "name": "Afganistán",
+    "flag": "🇦🇫",
+    "continent": "Asia",
+    "subregion": "Asia Meridional",
+    "capital": "Kabul",
+    "population": 41000000,
+    "area_km2": 652230,
+    "official_languages": [
+      "pastún",
+      "darí"
+    ],
+    "currency": "Afgani afgano",
+    "currency_code": "AFN",
+    "government": "República islámica",
+    "borders": [
+      "IR",
+      "PK",
+      "TM",
+      "UZ",
+      "TJ",
+      "CN"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "negro",
+      "rojo",
+      "verde",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+93"
+  },
+  "AL": {
+    "code": "AL",
+    "name": "Albania",
+    "flag": "🇦🇱",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "Tirana",
+    "population": 2800000,
+    "area_km2": 28748,
+    "official_languages": [
+      "albanés"
+    ],
+    "currency": "Lek albanés",
+    "currency_code": "ALL",
+    "government": "República parlamentaria",
+    "borders": [
+      "ME",
+      "MK",
+      "GR",
+      "XK"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+355"
+  },
+  "DE": {
+    "code": "DE",
+    "name": "Alemania",
+    "flag": "🇩🇪",
+    "continent": "Europa",
+    "subregion": "Europa Occidental",
+    "capital": "Berlín",
+    "population": 84000000,
+    "area_km2": 357114,
+    "official_languages": [
+      "alemán"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República federal parlamentaria",
+    "borders": [
+      "DK",
+      "PL",
+      "CZ",
+      "AT",
+      "CH",
+      "FR",
+      "LU",
+      "BE",
+      "NL"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "negro",
+      "rojo",
+      "amarillo"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+49"
+  },
+  "AD": {
+    "code": "AD",
+    "name": "Andorra",
+    "flag": "🇦🇩",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "Andorra la Vella",
+    "population": 80000,
+    "area_km2": 468,
+    "official_languages": [
+      "catalán"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "Coprincipado parlamentario",
+    "borders": [
+      "FR",
+      "ES"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+376"
+  },
+  "AO": {
+    "code": "AO",
+    "name": "Angola",
+    "flag": "🇦🇴",
+    "continent": "África",
+    "subregion": "África Central",
+    "capital": "Luanda",
+    "population": 36000000,
+    "area_km2": 1246700,
+    "official_languages": [
+      "portugués"
+    ],
+    "currency": "Kwanza",
+    "currency_code": "AOA",
+    "government": "República presidencialista",
+    "borders": [
+      "CG",
+      "CD",
+      "ZM",
+      "NA"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "negro",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+244"
+  },
+  "AG": {
+    "code": "AG",
+    "name": "Antigua y Barbuda",
+    "flag": "🇦🇬",
+    "continent": "América",
+    "subregion": "Caribe",
+    "capital": "Saint John's",
+    "population": 100000,
+    "area_km2": 442,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar del Caribe Oriental",
+    "currency_code": "XCD",
+    "government": "Monarquía parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "azul",
+      "blanco",
+      "amarillo",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+1268"
+  },
+  "SA": {
+    "code": "SA",
+    "name": "Arabia Saudí",
+    "flag": "🇸🇦",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Riad",
+    "population": 36000000,
+    "area_km2": 2149690,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Riyal saudí",
+    "currency_code": "SAR",
+    "government": "Monarquía absoluta",
+    "borders": [
+      "JO",
+      "IQ",
+      "KW",
+      "QA",
+      "AE",
+      "OM",
+      "YE"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+966"
+  },
+  "DZ": {
+    "code": "DZ",
+    "name": "Argelia",
+    "flag": "🇩🇿",
+    "continent": "África",
+    "subregion": "Norte de África",
+    "capital": "Argel",
+    "population": 45000000,
+    "area_km2": 2381741,
+    "official_languages": [
+      "árabe",
+      "bereber"
+    ],
+    "currency": "Dinar argelino",
+    "currency_code": "DZD",
+    "government": "República semipresidencialista",
+    "borders": [
+      "TN",
+      "LY",
+      "NE",
+      "ML",
+      "MR",
+      "MA",
+      "EH"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+213"
+  },
+  "AR": {
+    "code": "AR",
+    "name": "Argentina",
+    "flag": "🇦🇷",
+    "continent": "América",
+    "subregion": "Sudamérica",
+    "capital": "Buenos Aires",
+    "population": 46000000,
+    "area_km2": 2780400,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Peso argentino",
+    "currency_code": "ARS",
+    "government": "República federal presidencialista",
+    "borders": [
+      "BO",
+      "BR",
+      "CL",
+      "PY",
+      "UY"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+54"
+  },
+  "AM": {
+    "code": "AM",
+    "name": "Armenia",
+    "flag": "🇦🇲",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Ereván",
+    "population": 2800000,
+    "area_km2": 29743,
+    "official_languages": [
+      "armenio"
+    ],
+    "currency": "Dram armenio",
+    "currency_code": "AMD",
+    "government": "República parlamentaria",
+    "borders": [
+      "GE",
+      "AZ",
+      "IR",
+      "TR"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "azul",
+      "naranja"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+374"
+  },
+  "AU": {
+    "code": "AU",
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "continent": "Oceanía",
+    "subregion": "Australasia",
+    "capital": "Canberra",
+    "population": 27000000,
+    "area_km2": 7692024,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar australiano",
+    "currency_code": "AUD",
+    "government": "Monarquía federal parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico",
+      "Índico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+61"
+  },
+  "AT": {
+    "code": "AT",
+    "name": "Austria",
+    "flag": "🇦🇹",
+    "continent": "Europa",
+    "subregion": "Europa Central",
+    "capital": "Viena",
+    "population": 9100000,
+    "area_km2": 83879,
+    "official_languages": [
+      "alemán"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República federal parlamentaria",
+    "borders": [
+      "CZ",
+      "DE",
+      "HU",
+      "IT",
+      "LI",
+      "SK",
+      "SI",
+      "CH"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": true,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+43"
+  },
+  "AZ": {
+    "code": "AZ",
+    "name": "Azerbaiyán",
+    "flag": "🇦🇿",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Bakú",
+    "population": 10400000,
+    "area_km2": 86600,
+    "official_languages": [
+      "azerí"
+    ],
+    "currency": "Manat azerbaiyano",
+    "currency_code": "AZN",
+    "government": "República presidencialista",
+    "borders": [
+      "AM",
+      "GE",
+      "IR",
+      "RU",
+      "TR"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "rojo",
+      "verde",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+994"
+  },
+  "BS": {
+    "code": "BS",
+    "name": "Bahamas",
+    "flag": "🇧🇸",
+    "continent": "América",
+    "subregion": "Caribe",
+    "capital": "Nasáu",
+    "population": 410000,
+    "area_km2": 13943,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar bahameño",
+    "currency_code": "BSD",
+    "government": "Monarquía parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+1242"
+  },
+  "BD": {
+    "code": "BD",
+    "name": "Bangladés",
+    "flag": "🇧🇩",
+    "continent": "Asia",
+    "subregion": "Asia Meridional",
+    "capital": "Daca",
+    "population": 173000000,
+    "area_km2": 147570,
+    "official_languages": [
+      "bengalí"
+    ],
+    "currency": "Taka bangladesí",
+    "currency_code": "BDT",
+    "government": "República parlamentaria",
+    "borders": [
+      "MM",
+      "IN"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+880"
+  },
+  "BB": {
+    "code": "BB",
+    "name": "Barbados",
+    "flag": "🇧🇧",
+    "continent": "América",
+    "subregion": "Caribe",
+    "capital": "Bridgetown",
+    "population": 280000,
+    "area_km2": 430,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar de Barbados",
+    "currency_code": "BBD",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+1246"
+  },
+  "BH": {
+    "code": "BH",
+    "name": "Baréin",
+    "flag": "🇧🇭",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Manama",
+    "population": 1500000,
+    "area_km2": 778,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Dinar bareiní",
+    "currency_code": "BHD",
+    "government": "Monarquía constitucional",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "right",
+    "calling_code": "+973"
+  },
+  "BZ": {
+    "code": "BZ",
+    "name": "Belice",
+    "flag": "🇧🇿",
+    "continent": "América",
+    "subregion": "Centroamérica",
+    "capital": "Belmopán",
+    "population": 410000,
+    "area_km2": 22966,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar beliceño",
+    "currency_code": "BZD",
+    "government": "Monarquía parlamentaria",
+    "borders": [
+      "GT",
+      "MX"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+501"
+  },
+  "BJ": {
+    "code": "BJ",
+    "name": "Benín",
+    "flag": "🇧🇯",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Porto Novo",
+    "population": 13700000,
+    "area_km2": 112622,
+    "official_languages": [
+      "francés"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XOF",
+    "government": "República presidencialista",
+    "borders": [
+      "BF",
+      "NE",
+      "NG",
+      "TG"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+229"
+  },
+  "BY": {
+    "code": "BY",
+    "name": "Bielorrusia",
+    "flag": "🇧🇾",
+    "continent": "Europa",
+    "subregion": "Europa del Este",
+    "capital": "Minsk",
+    "population": 9400000,
+    "area_km2": 207600,
+    "official_languages": [
+      "bielorruso",
+      "ruso"
+    ],
+    "currency": "Rublo bielorruso",
+    "currency_code": "BYN",
+    "government": "República presidencialista",
+    "borders": [
+      "LV",
+      "LT",
+      "PL",
+      "RU",
+      "UA"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "verde",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+375"
+  },
+  "MM": {
+    "code": "MM",
+    "name": "Birmania (Myanmar)",
+    "flag": "🇲🇲",
+    "continent": "Asia",
+    "subregion": "Sudeste Asiático",
+    "capital": "Naipyidó",
+    "population": 54000000,
+    "area_km2": 676578,
+    "official_languages": [
+      "birmano"
+    ],
+    "currency": "Kyat",
+    "currency_code": "MMK",
+    "government": "Junta militar",
+    "borders": [
+      "BD",
+      "CN",
+      "IN",
+      "LA",
+      "TH"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "amarillo",
+      "verde",
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+95"
+  },
+  "BO": {
+    "code": "BO",
+    "name": "Bolivia",
+    "flag": "🇧🇴",
+    "continent": "América",
+    "subregion": "Sudamérica",
+    "capital": "Sucre",
+    "population": 12300000,
+    "area_km2": 1098581,
+    "official_languages": [
+      "español",
+      "quechua",
+      "aimara"
+    ],
+    "currency": "Boliviano",
+    "currency_code": "BOB",
+    "government": "República presidencialista",
+    "borders": [
+      "AR",
+      "BR",
+      "CL",
+      "PY",
+      "PE"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "amarillo",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+591"
+  },
+  "BA": {
+    "code": "BA",
+    "name": "Bosnia y Herzegovina",
+    "flag": "🇧🇦",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "Sarajevo",
+    "population": 3200000,
+    "area_km2": 51197,
+    "official_languages": [
+      "bosnio",
+      "croata",
+      "serbio"
+    ],
+    "currency": "Marco convertible",
+    "currency_code": "BAM",
+    "government": "República parlamentaria",
+    "borders": [
+      "HR",
+      "ME",
+      "RS"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+387"
+  },
+  "BW": {
+    "code": "BW",
+    "name": "Botsuana",
+    "flag": "🇧🇼",
+    "continent": "África",
+    "subregion": "África Austral",
+    "capital": "Gaborone",
+    "population": 2700000,
+    "area_km2": 581730,
+    "official_languages": [
+      "inglés",
+      "tsuana"
+    ],
+    "currency": "Pula",
+    "currency_code": "BWP",
+    "government": "República parlamentaria",
+    "borders": [
+      "NA",
+      "ZA",
+      "ZM",
+      "ZW"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+267"
+  },
+  "BR": {
+    "code": "BR",
+    "name": "Brasil",
+    "flag": "🇧🇷",
+    "continent": "América",
+    "subregion": "Sudamérica",
+    "capital": "Brasilia",
+    "population": 217000000,
+    "area_km2": 8515767,
+    "official_languages": [
+      "portugués"
+    ],
+    "currency": "Real brasileño",
+    "currency_code": "BRL",
+    "government": "República federal presidencialista",
+    "borders": [
+      "AR",
+      "BO",
+      "CO",
+      "GF",
+      "GY",
+      "PY",
+      "PE",
+      "SR",
+      "UY",
+      "VE"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "azul",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+55"
+  },
+  "BN": {
+    "code": "BN",
+    "name": "Brunéi",
+    "flag": "🇧🇳",
+    "continent": "Asia",
+    "subregion": "Sudeste Asiático",
+    "capital": "Bandar Seri Begawan",
+    "population": 450000,
+    "area_km2": 5765,
+    "official_languages": [
+      "malayo"
+    ],
+    "currency": "Dólar de Brunéi",
+    "currency_code": "BND",
+    "government": "Monarquía absoluta",
+    "borders": [
+      "MY"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "amarillo",
+      "blanco",
+      "negro",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+673"
+  },
+  "BG": {
+    "code": "BG",
+    "name": "Bulgaria",
+    "flag": "🇧🇬",
+    "continent": "Europa",
+    "subregion": "Europa del Este",
+    "capital": "Sofía",
+    "population": 6800000,
+    "area_km2": 110994,
+    "official_languages": [
+      "búlgaro"
+    ],
+    "currency": "Lev búlgaro",
+    "currency_code": "BGN",
+    "government": "República parlamentaria",
+    "borders": [
+      "GR",
+      "MK",
+      "RO",
+      "RS",
+      "TR"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "blanco",
+      "verde",
+      "rojo"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+359"
+  },
+  "BF": {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "flag": "🇧🇫",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Uagadugú",
+    "population": 23000000,
+    "area_km2": 272967,
+    "official_languages": [
+      "francés"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XOF",
+    "government": "Junta militar",
+    "borders": [
+      "BJ",
+      "CI",
+      "GH",
+      "ML",
+      "NE",
+      "TG"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "verde",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+226"
+  },
+  "BI": {
+    "code": "BI",
+    "name": "Burundi",
+    "flag": "🇧🇮",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Gitega",
+    "population": 13200000,
+    "area_km2": 27834,
+    "official_languages": [
+      "kirundi",
+      "francés"
+    ],
+    "currency": "Franco burundés",
+    "currency_code": "BIF",
+    "government": "República presidencialista",
+    "borders": [
+      "CD",
+      "RW",
+      "TZ"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "verde",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+257"
+  },
+  "BT": {
+    "code": "BT",
+    "name": "Bután",
+    "flag": "🇧🇹",
+    "continent": "Asia",
+    "subregion": "Asia Meridional",
+    "capital": "Timbu",
+    "population": 780000,
+    "area_km2": 38394,
+    "official_languages": [
+      "dzongkha"
+    ],
+    "currency": "Ngultrum",
+    "currency_code": "BTN",
+    "government": "Monarquía constitucional",
+    "borders": [
+      "CN",
+      "IN"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "amarillo",
+      "naranja",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+975"
+  },
+  "BE": {
+    "code": "BE",
+    "name": "Bélgica",
+    "flag": "🇧🇪",
+    "continent": "Europa",
+    "subregion": "Europa Occidental",
+    "capital": "Bruselas",
+    "population": 11700000,
+    "area_km2": 30528,
+    "official_languages": [
+      "neerlandés",
+      "francés",
+      "alemán"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "Monarquía federal parlamentaria",
+    "borders": [
+      "FR",
+      "DE",
+      "LU",
+      "NL"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "negro",
+      "amarillo",
+      "rojo"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+32"
+  },
+  "CV": {
+    "code": "CV",
+    "name": "Cabo Verde",
+    "flag": "🇨🇻",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Praia",
+    "population": 600000,
+    "area_km2": 4033,
+    "official_languages": [
+      "portugués"
+    ],
+    "currency": "Escudo caboverdiano",
+    "currency_code": "CVE",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "rojo",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "right",
+    "calling_code": "+238"
+  },
+  "KH": {
+    "code": "KH",
+    "name": "Camboya",
+    "flag": "🇰🇭",
+    "continent": "Asia",
+    "subregion": "Sudeste Asiático",
+    "capital": "Nom Pen",
+    "population": 17000000,
+    "area_km2": 181035,
+    "official_languages": [
+      "jemer"
+    ],
+    "currency": "Riel camboyano",
+    "currency_code": "KHR",
+    "government": "Monarquía constitucional",
+    "borders": [
+      "LA",
+      "TH",
+      "VN"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+855"
+  },
+  "CM": {
+    "code": "CM",
+    "name": "Camerún",
+    "flag": "🇨🇲",
+    "continent": "África",
+    "subregion": "África Central",
+    "capital": "Yaundé",
+    "population": 28100000,
+    "area_km2": 475442,
+    "official_languages": [
+      "francés",
+      "inglés"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XAF",
+    "government": "República presidencialista",
+    "borders": [
+      "CF",
+      "TD",
+      "CG",
+      "GQ",
+      "GA",
+      "NG"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "rojo",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+237"
+  },
+  "CA": {
+    "code": "CA",
+    "name": "Canadá",
+    "flag": "🇨🇦",
+    "continent": "América",
+    "subregion": "Norteamérica",
+    "capital": "Ottawa",
+    "population": 40000000,
+    "area_km2": 9984670,
+    "official_languages": [
+      "inglés",
+      "francés"
+    ],
+    "currency": "Dólar canadiense",
+    "currency_code": "CAD",
+    "government": "Monarquía federal parlamentaria",
+    "borders": [
+      "US"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico",
+      "Pacífico",
+      "Ártico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+1"
+  },
+  "QA": {
+    "code": "QA",
+    "name": "Catar",
+    "flag": "🇶🇦",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Doha",
+    "population": 2700000,
+    "area_km2": 11586,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Riyal catarí",
+    "currency_code": "QAR",
+    "government": "Monarquía absoluta",
+    "borders": [
+      "SA"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "granate",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+974"
+  },
+  "TD": {
+    "code": "TD",
+    "name": "Chad",
+    "flag": "🇹🇩",
+    "continent": "África",
+    "subregion": "África Central",
+    "capital": "Yamena",
+    "population": 17700000,
+    "area_km2": 1284000,
+    "official_languages": [
+      "francés",
+      "árabe"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XAF",
+    "government": "República presidencialista",
+    "borders": [
+      "CM",
+      "CF",
+      "LY",
+      "NE",
+      "NG",
+      "SS",
+      "SD"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+235"
+  },
+  "CL": {
+    "code": "CL",
+    "name": "Chile",
+    "flag": "🇨🇱",
+    "continent": "América",
+    "subregion": "Sudamérica",
+    "capital": "Santiago",
+    "population": 19500000,
+    "area_km2": 756102,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Peso chileno",
+    "currency_code": "CLP",
+    "government": "República presidencialista",
+    "borders": [
+      "AR",
+      "BO",
+      "PE"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+56"
+  },
+  "CN": {
+    "code": "CN",
+    "name": "China",
+    "flag": "🇨🇳",
+    "continent": "Asia",
+    "subregion": "Asia Oriental",
+    "capital": "Pekín",
+    "population": 1410000000,
+    "area_km2": 9596961,
+    "official_languages": [
+      "chino mandarín"
+    ],
+    "currency": "Yuan",
+    "currency_code": "CNY",
+    "government": "República socialista de partido único",
+    "borders": [
+      "AF",
+      "BT",
+      "MM",
+      "IN",
+      "KZ",
+      "KG",
+      "LA",
+      "MN",
+      "NP",
+      "KP",
+      "PK",
+      "RU",
+      "TJ",
+      "VN"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+86"
+  },
+  "CY": {
+    "code": "CY",
+    "name": "Chipre",
+    "flag": "🇨🇾",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "Nicosia",
+    "population": 1300000,
+    "area_km2": 9251,
+    "official_languages": [
+      "griego",
+      "turco"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República presidencialista",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "blanco",
+      "naranja",
+      "verde"
+    ],
+    "in_EU": true,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+357"
+  },
+  "VA": {
+    "code": "VA",
+    "name": "Ciudad del Vaticano",
+    "flag": "🇻🇦",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "Ciudad del Vaticano",
+    "population": 800,
+    "area_km2": 0.49,
+    "official_languages": [
+      "italiano",
+      "latín"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "Monarquía absoluta teocrática",
+    "borders": [
+      "IT"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "amarillo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+379"
+  },
+  "CO": {
+    "code": "CO",
+    "name": "Colombia",
+    "flag": "🇨🇴",
+    "continent": "América",
+    "subregion": "Sudamérica",
+    "capital": "Bogotá",
+    "population": 52000000,
+    "area_km2": 1141748,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Peso colombiano",
+    "currency_code": "COP",
+    "government": "República presidencialista",
+    "borders": [
+      "BR",
+      "EC",
+      "PA",
+      "PE",
+      "VE"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico",
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "amarillo",
+      "azul",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+57"
+  },
+  "KM": {
+    "code": "KM",
+    "name": "Comoras",
+    "flag": "🇰🇲",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Moroni",
+    "population": 850000,
+    "area_km2": 1862,
+    "official_languages": [
+      "árabe",
+      "francés",
+      "comorense"
+    ],
+    "currency": "Franco comorense",
+    "currency_code": "KMF",
+    "government": "República federal presidencialista",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "amarillo",
+      "blanco",
+      "rojo",
+      "azul",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "right",
+    "calling_code": "+269"
+  },
+  "KP": {
+    "code": "KP",
+    "name": "Corea del Norte",
+    "flag": "🇰🇵",
+    "continent": "Asia",
+    "subregion": "Asia Oriental",
+    "capital": "Pionyang",
+    "population": 26000000,
+    "area_km2": 120538,
+    "official_languages": [
+      "coreano"
+    ],
+    "currency": "Won norcoreano",
+    "currency_code": "KPW",
+    "government": "Dictadura de partido único",
+    "borders": [
+      "CN",
+      "KR",
+      "RU"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+850"
+  },
+  "KR": {
+    "code": "KR",
+    "name": "Corea del Sur",
+    "flag": "🇰🇷",
+    "continent": "Asia",
+    "subregion": "Asia Oriental",
+    "capital": "Seúl",
+    "population": 51700000,
+    "area_km2": 100210,
+    "official_languages": [
+      "coreano"
+    ],
+    "currency": "Won surcoreano",
+    "currency_code": "KRW",
+    "government": "República presidencialista",
+    "borders": [
+      "KP"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "blanco",
+      "rojo",
+      "azul",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+82"
+  },
+  "CR": {
+    "code": "CR",
+    "name": "Costa Rica",
+    "flag": "🇨🇷",
+    "continent": "América",
+    "subregion": "Centroamérica",
+    "capital": "San José",
+    "population": 5200000,
+    "area_km2": 51100,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Colón costarricense",
+    "currency_code": "CRC",
+    "government": "República presidencialista",
+    "borders": [
+      "NI",
+      "PA"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico",
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+506"
+  },
+  "CI": {
+    "code": "CI",
+    "name": "Costa de Marfil",
+    "flag": "🇨🇮",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Yamusukro",
+    "population": 28900000,
+    "area_km2": 322463,
+    "official_languages": [
+      "francés"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XOF",
+    "government": "República presidencialista",
+    "borders": [
+      "BF",
+      "GH",
+      "GN",
+      "LR",
+      "ML"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "naranja",
+      "blanco",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+225"
+  },
+  "HR": {
+    "code": "HR",
+    "name": "Croacia",
+    "flag": "🇭🇷",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "Zagreb",
+    "population": 3850000,
+    "area_km2": 56594,
+    "official_languages": [
+      "croata"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República parlamentaria",
+    "borders": [
+      "BA",
+      "HU",
+      "ME",
+      "RS",
+      "SI"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "azul"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+385"
+  },
+  "CU": {
+    "code": "CU",
+    "name": "Cuba",
+    "flag": "🇨🇺",
+    "continent": "América",
+    "subregion": "Caribe",
+    "capital": "La Habana",
+    "population": 11000000,
+    "area_km2": 109884,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Peso cubano",
+    "currency_code": "CUP",
+    "government": "República socialista de partido único",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "right",
+    "calling_code": "+53"
+  },
+  "DK": {
+    "code": "DK",
+    "name": "Dinamarca",
+    "flag": "🇩🇰",
+    "continent": "Europa",
+    "subregion": "Europa del Norte",
+    "capital": "Copenhague",
+    "population": 5950000,
+    "area_km2": 43094,
+    "official_languages": [
+      "danés"
+    ],
+    "currency": "Corona danesa",
+    "currency_code": "DKK",
+    "government": "Monarquía parlamentaria",
+    "borders": [
+      "DE"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+45"
+  },
+  "DM": {
+    "code": "DM",
+    "name": "Dominica",
+    "flag": "🇩🇲",
+    "continent": "América",
+    "subregion": "Caribe",
+    "capital": "Roseau",
+    "population": 73000,
+    "area_km2": 750,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar del Caribe Oriental",
+    "currency_code": "XCD",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "negro",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+1767"
+  },
+  "EC": {
+    "code": "EC",
+    "name": "Ecuador",
+    "flag": "🇪🇨",
+    "continent": "América",
+    "subregion": "Sudamérica",
+    "capital": "Quito",
+    "population": 18200000,
+    "area_km2": 283561,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Dólar estadounidense",
+    "currency_code": "USD",
+    "government": "República presidencialista",
+    "borders": [
+      "CO",
+      "PE"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "amarillo",
+      "azul",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+593"
+  },
+  "EG": {
+    "code": "EG",
+    "name": "Egipto",
+    "flag": "🇪🇬",
+    "continent": "África",
+    "subregion": "Norte de África",
+    "capital": "El Cairo",
+    "population": 110000000,
+    "area_km2": 1001450,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Libra egipcia",
+    "currency_code": "EGP",
+    "government": "República presidencialista",
+    "borders": [
+      "IL",
+      "LY",
+      "SD",
+      "PS"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo",
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "negro",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+20"
+  },
+  "SV": {
+    "code": "SV",
+    "name": "El Salvador",
+    "flag": "🇸🇻",
+    "continent": "América",
+    "subregion": "Centroamérica",
+    "capital": "San Salvador",
+    "population": 6300000,
+    "area_km2": 21041,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Dólar estadounidense",
+    "currency_code": "USD",
+    "government": "República presidencialista",
+    "borders": [
+      "GT",
+      "HN"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+503"
+  },
+  "AE": {
+    "code": "AE",
+    "name": "Emiratos Árabes Unidos",
+    "flag": "🇦🇪",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Abu Dabi",
+    "population": 9900000,
+    "area_km2": 83600,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Dírham",
+    "currency_code": "AED",
+    "government": "Monarquía federal absoluta",
+    "borders": [
+      "OM",
+      "SA"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "verde",
+      "blanco",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+971"
+  },
+  "ER": {
+    "code": "ER",
+    "name": "Eritrea",
+    "flag": "🇪🇷",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Asmara",
+    "population": 3700000,
+    "area_km2": 117600,
+    "official_languages": [
+      "tigriña",
+      "árabe",
+      "inglés"
+    ],
+    "currency": "Nakfa",
+    "currency_code": "ERN",
+    "government": "República autoritaria",
+    "borders": [
+      "DJ",
+      "ET",
+      "SD"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "rojo",
+      "azul",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+291"
+  },
+  "SK": {
+    "code": "SK",
+    "name": "Eslovaquia",
+    "flag": "🇸🇰",
+    "continent": "Europa",
+    "subregion": "Europa Central",
+    "capital": "Bratislava",
+    "population": 5450000,
+    "area_km2": 49035,
+    "official_languages": [
+      "eslovaco"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República parlamentaria",
+    "borders": [
+      "AT",
+      "CZ",
+      "HU",
+      "PL",
+      "UA"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "blanco",
+      "azul",
+      "rojo"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+421"
+  },
+  "SI": {
+    "code": "SI",
+    "name": "Eslovenia",
+    "flag": "🇸🇮",
+    "continent": "Europa",
+    "subregion": "Europa Central",
+    "capital": "Liubliana",
+    "population": 2120000,
+    "area_km2": 20273,
+    "official_languages": [
+      "esloveno"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República parlamentaria",
+    "borders": [
+      "AT",
+      "HR",
+      "IT",
+      "HU"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "blanco",
+      "azul",
+      "rojo"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+386"
+  },
+  "ES": {
+    "code": "ES",
+    "name": "España",
+    "flag": "🇪🇸",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "Madrid",
+    "population": 48400000,
+    "area_km2": 505990,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "Monarquía parlamentaria",
+    "borders": [
+      "AD",
+      "FR",
+      "PT",
+      "MA",
+      "GB"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico",
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "amarillo"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+34"
+  },
+  "US": {
+    "code": "US",
+    "name": "Estados Unidos",
+    "flag": "🇺🇸",
+    "continent": "América",
+    "subregion": "Norteamérica",
+    "capital": "Washington D.C.",
+    "population": 333000000,
+    "area_km2": 9833520,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar estadounidense",
+    "currency_code": "USD",
+    "government": "República federal presidencialista",
+    "borders": [
+      "CA",
+      "MX"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico",
+      "Pacífico",
+      "Ártico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+1"
+  },
+  "EE": {
+    "code": "EE",
+    "name": "Estonia",
+    "flag": "🇪🇪",
+    "continent": "Europa",
+    "subregion": "Europa del Norte",
+    "capital": "Tallin",
+    "population": 1330000,
+    "area_km2": 45227,
+    "official_languages": [
+      "estonio"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República parlamentaria",
+    "borders": [
+      "LV",
+      "RU"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "negro",
+      "blanco"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+372"
+  },
+  "SZ": {
+    "code": "SZ",
+    "name": "Esuatini",
+    "flag": "🇸🇿",
+    "continent": "África",
+    "subregion": "África Austral",
+    "capital": "Mbabane",
+    "population": 1200000,
+    "area_km2": 17364,
+    "official_languages": [
+      "suazi",
+      "inglés"
+    ],
+    "currency": "Lilangeni",
+    "currency_code": "SZL",
+    "government": "Monarquía absoluta",
+    "borders": [
+      "MZ",
+      "ZA"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "rojo",
+      "negro",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+268"
+  },
+  "ET": {
+    "code": "ET",
+    "name": "Etiopía",
+    "flag": "🇪🇹",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Adís Abeba",
+    "population": 126000000,
+    "area_km2": 1104300,
+    "official_languages": [
+      "amárico"
+    ],
+    "currency": "Birr etíope",
+    "currency_code": "ETB",
+    "government": "República federal parlamentaria",
+    "borders": [
+      "DJ",
+      "ER",
+      "KE",
+      "SO",
+      "SS",
+      "SD"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "rojo",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+251"
+  },
+  "PH": {
+    "code": "PH",
+    "name": "Filipinas",
+    "flag": "🇵🇭",
+    "continent": "Asia",
+    "subregion": "Sudeste Asiático",
+    "capital": "Manila",
+    "population": 117000000,
+    "area_km2": 300000,
+    "official_languages": [
+      "filipino",
+      "inglés"
+    ],
+    "currency": "Peso filipino",
+    "currency_code": "PHP",
+    "government": "República presidencialista",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "rojo",
+      "blanco",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "right",
+    "calling_code": "+63"
+  },
+  "FI": {
+    "code": "FI",
+    "name": "Finlandia",
+    "flag": "🇫🇮",
+    "continent": "Europa",
+    "subregion": "Europa del Norte",
+    "capital": "Helsinki",
+    "population": 5550000,
+    "area_km2": 338424,
+    "official_languages": [
+      "finés",
+      "sueco"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República parlamentaria",
+    "borders": [
+      "NO",
+      "RU",
+      "SE"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+358"
+  },
+  "FJ": {
+    "code": "FJ",
+    "name": "Fiyi",
+    "flag": "🇫🇯",
+    "continent": "Oceanía",
+    "subregion": "Melanesia",
+    "capital": "Suva",
+    "population": 930000,
+    "area_km2": 18272,
+    "official_languages": [
+      "inglés",
+      "fiyiano",
+      "hindi"
+    ],
+    "currency": "Dólar fiyiano",
+    "currency_code": "FJD",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "rojo",
+      "blanco",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+679"
+  },
+  "FR": {
+    "code": "FR",
+    "name": "Francia",
+    "flag": "🇫🇷",
+    "continent": "Europa",
+    "subregion": "Europa Occidental",
+    "capital": "París",
+    "population": 68000000,
+    "area_km2": 643801,
+    "official_languages": [
+      "francés"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República semipresidencialista",
+    "borders": [
+      "AD",
+      "BE",
+      "DE",
+      "IT",
+      "LU",
+      "MC",
+      "ES",
+      "CH"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico",
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+33"
+  },
+  "GA": {
+    "code": "GA",
+    "name": "Gabón",
+    "flag": "🇬🇦",
+    "continent": "África",
+    "subregion": "África Central",
+    "capital": "Libreville",
+    "population": 2400000,
+    "area_km2": 267668,
+    "official_languages": [
+      "francés"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XAF",
+    "government": "Junta militar",
+    "borders": [
+      "CM",
+      "CG",
+      "GQ"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+241"
+  },
+  "GM": {
+    "code": "GM",
+    "name": "Gambia",
+    "flag": "🇬🇲",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Banjul",
+    "population": 2700000,
+    "area_km2": 11295,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dalasi",
+    "currency_code": "GMD",
+    "government": "República presidencialista",
+    "borders": [
+      "SN"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "azul",
+      "verde",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+220"
+  },
+  "GE": {
+    "code": "GE",
+    "name": "Georgia",
+    "flag": "🇬🇪",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Tiflis",
+    "population": 3700000,
+    "area_km2": 69700,
+    "official_languages": [
+      "georgiano"
+    ],
+    "currency": "Lari",
+    "currency_code": "GEL",
+    "government": "República parlamentaria",
+    "borders": [
+      "AM",
+      "AZ",
+      "RU",
+      "TR"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+995"
+  },
+  "GH": {
+    "code": "GH",
+    "name": "Ghana",
+    "flag": "🇬🇭",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Acra",
+    "population": 33500000,
+    "area_km2": 238533,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Cedi",
+    "currency_code": "GHS",
+    "government": "República presidencialista",
+    "borders": [
+      "BF",
+      "CI",
+      "TG"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "amarillo",
+      "verde",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+233"
+  },
+  "GD": {
+    "code": "GD",
+    "name": "Granada",
+    "flag": "🇬🇩",
+    "continent": "América",
+    "subregion": "Caribe",
+    "capital": "Saint George's",
+    "population": 125000,
+    "area_km2": 344,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar del Caribe Oriental",
+    "currency_code": "XCD",
+    "government": "Monarquía parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "amarillo",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+1473"
+  },
+  "GR": {
+    "code": "GR",
+    "name": "Grecia",
+    "flag": "🇬🇷",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "Atenas",
+    "population": 10400000,
+    "area_km2": 131957,
+    "official_languages": [
+      "griego"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República parlamentaria",
+    "borders": [
+      "AL",
+      "BG",
+      "MK",
+      "TR"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+30"
+  },
+  "GT": {
+    "code": "GT",
+    "name": "Guatemala",
+    "flag": "🇬🇹",
+    "continent": "América",
+    "subregion": "Centroamérica",
+    "capital": "Ciudad de Guatemala",
+    "population": 17600000,
+    "area_km2": 108889,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Quetzal",
+    "currency_code": "GTQ",
+    "government": "República presidencialista",
+    "borders": [
+      "BZ",
+      "SV",
+      "HN",
+      "MX"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico",
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+502"
+  },
+  "GN": {
+    "code": "GN",
+    "name": "Guinea",
+    "flag": "🇬🇳",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Conakri",
+    "population": 14200000,
+    "area_km2": 245857,
+    "official_languages": [
+      "francés"
+    ],
+    "currency": "Franco guineano",
+    "currency_code": "GNF",
+    "government": "Junta militar",
+    "borders": [
+      "CI",
+      "GW",
+      "LR",
+      "ML",
+      "SN",
+      "SL"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "amarillo",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+224"
+  },
+  "GQ": {
+    "code": "GQ",
+    "name": "Guinea Ecuatorial",
+    "flag": "🇬🇶",
+    "continent": "África",
+    "subregion": "África Central",
+    "capital": "Malabo",
+    "population": 1700000,
+    "area_km2": 28051,
+    "official_languages": [
+      "español",
+      "francés",
+      "portugués"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XAF",
+    "government": "República presidencialista",
+    "borders": [
+      "CM",
+      "GA"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "blanco",
+      "rojo",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+240"
+  },
+  "GW": {
+    "code": "GW",
+    "name": "Guinea-Bisáu",
+    "flag": "🇬🇼",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Bisáu",
+    "population": 2100000,
+    "area_km2": 36125,
+    "official_languages": [
+      "portugués"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XOF",
+    "government": "República semipresidencialista",
+    "borders": [
+      "GN",
+      "SN"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "amarillo",
+      "verde",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+245"
+  },
+  "GY": {
+    "code": "GY",
+    "name": "Guyana",
+    "flag": "🇬🇾",
+    "continent": "América",
+    "subregion": "Sudamérica",
+    "capital": "Georgetown",
+    "population": 815000,
+    "area_km2": 214969,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar guyanés",
+    "currency_code": "GYD",
+    "government": "República parlamentaria",
+    "borders": [
+      "BR",
+      "SR",
+      "VE"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "rojo",
+      "negro",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+592"
+  },
+  "HT": {
+    "code": "HT",
+    "name": "Haití",
+    "flag": "🇭🇹",
+    "continent": "América",
+    "subregion": "Caribe",
+    "capital": "Puerto Príncipe",
+    "population": 11700000,
+    "area_km2": 27750,
+    "official_languages": [
+      "francés",
+      "criollo haitiano"
+    ],
+    "currency": "Gourde",
+    "currency_code": "HTG",
+    "government": "República semipresidencialista",
+    "borders": [
+      "DO"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+509"
+  },
+  "HN": {
+    "code": "HN",
+    "name": "Honduras",
+    "flag": "🇭🇳",
+    "continent": "América",
+    "subregion": "Centroamérica",
+    "capital": "Tegucigalpa",
+    "population": 10400000,
+    "area_km2": 112492,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Lempira",
+    "currency_code": "HNL",
+    "government": "República presidencialista",
+    "borders": [
+      "GT",
+      "SV",
+      "NI"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico",
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+504"
+  },
+  "HU": {
+    "code": "HU",
+    "name": "Hungría",
+    "flag": "🇭🇺",
+    "continent": "Europa",
+    "subregion": "Europa Central",
+    "capital": "Budapest",
+    "population": 9700000,
+    "area_km2": 93028,
+    "official_languages": [
+      "húngaro"
+    ],
+    "currency": "Forinto",
+    "currency_code": "HUF",
+    "government": "República parlamentaria",
+    "borders": [
+      "AT",
+      "HR",
+      "RO",
+      "RS",
+      "SK",
+      "SI",
+      "UA"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "verde"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+36"
+  },
+  "IN": {
+    "code": "IN",
+    "name": "India",
+    "flag": "🇮🇳",
+    "continent": "Asia",
+    "subregion": "Asia Meridional",
+    "capital": "Nueva Delhi",
+    "population": 1430000000,
+    "area_km2": 3287263,
+    "official_languages": [
+      "hindi",
+      "inglés"
+    ],
+    "currency": "Rupia india",
+    "currency_code": "INR",
+    "government": "República federal parlamentaria",
+    "borders": [
+      "BD",
+      "BT",
+      "MM",
+      "CN",
+      "NP",
+      "PK"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "naranja",
+      "blanco",
+      "verde",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+91"
+  },
+  "ID": {
+    "code": "ID",
+    "name": "Indonesia",
+    "flag": "🇮🇩",
+    "continent": "Asia",
+    "subregion": "Sudeste Asiático",
+    "capital": "Yakarta",
+    "population": 277000000,
+    "area_km2": 1904569,
+    "official_languages": [
+      "indonesio"
+    ],
+    "currency": "Rupia indonesia",
+    "currency_code": "IDR",
+    "government": "República presidencialista",
+    "borders": [
+      "TL",
+      "MY",
+      "PG"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico",
+      "Índico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+62"
+  },
+  "IQ": {
+    "code": "IQ",
+    "name": "Irak",
+    "flag": "🇮🇶",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Bagdad",
+    "population": 44000000,
+    "area_km2": 438317,
+    "official_languages": [
+      "árabe",
+      "kurdo"
+    ],
+    "currency": "Dinar iraquí",
+    "currency_code": "IQD",
+    "government": "República parlamentaria federal",
+    "borders": [
+      "IR",
+      "JO",
+      "KW",
+      "SA",
+      "SY",
+      "TR"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "negro",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+964"
+  },
+  "IE": {
+    "code": "IE",
+    "name": "Irlanda",
+    "flag": "🇮🇪",
+    "continent": "Europa",
+    "subregion": "Europa del Norte",
+    "capital": "Dublín",
+    "population": 5100000,
+    "area_km2": 70273,
+    "official_languages": [
+      "irlandés",
+      "inglés"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República parlamentaria",
+    "borders": [
+      "GB"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "verde",
+      "blanco",
+      "naranja"
+    ],
+    "in_EU": true,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+353"
+  },
+  "IR": {
+    "code": "IR",
+    "name": "Irán",
+    "flag": "🇮🇷",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Teherán",
+    "population": 89000000,
+    "area_km2": 1648195,
+    "official_languages": [
+      "persa"
+    ],
+    "currency": "Rial iraní",
+    "currency_code": "IRR",
+    "government": "República islámica teocrática",
+    "borders": [
+      "AF",
+      "AM",
+      "AZ",
+      "IQ",
+      "PK",
+      "TR",
+      "TM"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+98"
+  },
+  "IS": {
+    "code": "IS",
+    "name": "Islandia",
+    "flag": "🇮🇸",
+    "continent": "Europa",
+    "subregion": "Europa del Norte",
+    "capital": "Reikiavik",
+    "population": 380000,
+    "area_km2": 103000,
+    "official_languages": [
+      "islandés"
+    ],
+    "currency": "Corona islandesa",
+    "currency_code": "ISK",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico",
+      "Ártico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "right",
+    "calling_code": "+354"
+  },
+  "MH": {
+    "code": "MH",
+    "name": "Islas Marshall",
+    "flag": "🇲🇭",
+    "continent": "Oceanía",
+    "subregion": "Micronesia",
+    "capital": "Majuro",
+    "population": 42000,
+    "area_km2": 181,
+    "official_languages": [
+      "marshalés",
+      "inglés"
+    ],
+    "currency": "Dólar estadounidense",
+    "currency_code": "USD",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "naranja"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "right",
+    "calling_code": "+692"
+  },
+  "SB": {
+    "code": "SB",
+    "name": "Islas Salomón",
+    "flag": "🇸🇧",
+    "continent": "Oceanía",
+    "subregion": "Melanesia",
+    "capital": "Honiara",
+    "population": 740000,
+    "area_km2": 28896,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar de las Islas Salomón",
+    "currency_code": "SBD",
+    "government": "Monarquía parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "verde",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+677"
+  },
+  "IL": {
+    "code": "IL",
+    "name": "Israel",
+    "flag": "🇮🇱",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Jerusalén",
+    "population": 9700000,
+    "area_km2": 22072,
+    "official_languages": [
+      "hebreo"
+    ],
+    "currency": "Nuevo séquel",
+    "currency_code": "ILS",
+    "government": "República parlamentaria",
+    "borders": [
+      "EG",
+      "JO",
+      "LB",
+      "PS",
+      "SY"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+972"
+  },
+  "IT": {
+    "code": "IT",
+    "name": "Italia",
+    "flag": "🇮🇹",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "Roma",
+    "population": 59000000,
+    "area_km2": 301340,
+    "official_languages": [
+      "italiano"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República parlamentaria",
+    "borders": [
+      "AT",
+      "FR",
+      "SM",
+      "SI",
+      "CH",
+      "VA"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+39"
+  },
+  "JM": {
+    "code": "JM",
+    "name": "Jamaica",
+    "flag": "🇯🇲",
+    "continent": "América",
+    "subregion": "Caribe",
+    "capital": "Kingston",
+    "population": 2820000,
+    "area_km2": 10991,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar jamaiquino",
+    "currency_code": "JMD",
+    "government": "Monarquía parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+1876"
+  },
+  "JP": {
+    "code": "JP",
+    "name": "Japón",
+    "flag": "🇯🇵",
+    "continent": "Asia",
+    "subregion": "Asia Oriental",
+    "capital": "Tokio",
+    "population": 124000000,
+    "area_km2": 377975,
+    "official_languages": [
+      "japonés"
+    ],
+    "currency": "Yen",
+    "currency_code": "JPY",
+    "government": "Monarquía parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+81"
+  },
+  "JO": {
+    "code": "JO",
+    "name": "Jordania",
+    "flag": "🇯🇴",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Amán",
+    "population": 11300000,
+    "area_km2": 89342,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Dinar jordano",
+    "currency_code": "JOD",
+    "government": "Monarquía constitucional",
+    "borders": [
+      "IQ",
+      "IL",
+      "PS",
+      "SA",
+      "SY"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "negro",
+      "blanco",
+      "verde",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+962"
+  },
+  "KZ": {
+    "code": "KZ",
+    "name": "Kazajistán",
+    "flag": "🇰🇿",
+    "continent": "Asia",
+    "subregion": "Asia Central",
+    "capital": "Astaná",
+    "population": 19700000,
+    "area_km2": 2724900,
+    "official_languages": [
+      "kazajo",
+      "ruso"
+    ],
+    "currency": "Tenge",
+    "currency_code": "KZT",
+    "government": "República presidencialista",
+    "borders": [
+      "CN",
+      "KG",
+      "RU",
+      "TM",
+      "UZ"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+7"
+  },
+  "KE": {
+    "code": "KE",
+    "name": "Kenia",
+    "flag": "🇰🇪",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Nairobi",
+    "population": 54000000,
+    "area_km2": 580367,
+    "official_languages": [
+      "suajili",
+      "inglés"
+    ],
+    "currency": "Chelín keniano",
+    "currency_code": "KES",
+    "government": "República presidencialista",
+    "borders": [
+      "ET",
+      "SO",
+      "SS",
+      "TZ",
+      "UG"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "negro",
+      "rojo",
+      "verde",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+254"
+  },
+  "KG": {
+    "code": "KG",
+    "name": "Kirguistán",
+    "flag": "🇰🇬",
+    "continent": "Asia",
+    "subregion": "Asia Central",
+    "capital": "Biskek",
+    "population": 6800000,
+    "area_km2": 199951,
+    "official_languages": [
+      "kirguís",
+      "ruso"
+    ],
+    "currency": "Som",
+    "currency_code": "KGS",
+    "government": "República parlamentaria",
+    "borders": [
+      "CN",
+      "KZ",
+      "TJ",
+      "UZ"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+996"
+  },
+  "KI": {
+    "code": "KI",
+    "name": "Kiribati",
+    "flag": "🇰🇮",
+    "continent": "Oceanía",
+    "subregion": "Micronesia",
+    "capital": "Tarawa",
+    "population": 130000,
+    "area_km2": 811,
+    "official_languages": [
+      "inglés",
+      "gilbertés"
+    ],
+    "currency": "Dólar australiano",
+    "currency_code": "AUD",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "amarillo",
+      "azul",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+686"
+  },
+  "KW": {
+    "code": "KW",
+    "name": "Kuwait",
+    "flag": "🇰🇼",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Ciudad de Kuwait",
+    "population": 4300000,
+    "area_km2": 17818,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Dinar kuwaití",
+    "currency_code": "KWD",
+    "government": "Monarquía constitucional",
+    "borders": [
+      "IQ",
+      "SA"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "blanco",
+      "rojo",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+965"
+  },
+  "LA": {
+    "code": "LA",
+    "name": "Laos",
+    "flag": "🇱🇦",
+    "continent": "Asia",
+    "subregion": "Sudeste Asiático",
+    "capital": "Vientián",
+    "population": 7600000,
+    "area_km2": 236800,
+    "official_languages": [
+      "lao"
+    ],
+    "currency": "Kip",
+    "currency_code": "LAK",
+    "government": "República socialista de partido único",
+    "borders": [
+      "MM",
+      "KH",
+      "CN",
+      "TH",
+      "VN"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "azul",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+856"
+  },
+  "LS": {
+    "code": "LS",
+    "name": "Lesoto",
+    "flag": "🇱🇸",
+    "continent": "África",
+    "subregion": "África Austral",
+    "capital": "Maseru",
+    "population": 2300000,
+    "area_km2": 30355,
+    "official_languages": [
+      "sesoto",
+      "inglés"
+    ],
+    "currency": "Loti",
+    "currency_code": "LSL",
+    "government": "Monarquía constitucional",
+    "borders": [
+      "ZA"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "verde",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+266"
+  },
+  "LV": {
+    "code": "LV",
+    "name": "Letonia",
+    "flag": "🇱🇻",
+    "continent": "Europa",
+    "subregion": "Europa del Norte",
+    "capital": "Riga",
+    "population": 1850000,
+    "area_km2": 64589,
+    "official_languages": [
+      "letón"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República parlamentaria",
+    "borders": [
+      "BY",
+      "EE",
+      "LT",
+      "RU"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "granate",
+      "blanco"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+371"
+  },
+  "LR": {
+    "code": "LR",
+    "name": "Liberia",
+    "flag": "🇱🇷",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Monrovia",
+    "population": 5300000,
+    "area_km2": 111369,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar liberiano",
+    "currency_code": "LRD",
+    "government": "República presidencialista",
+    "borders": [
+      "GN",
+      "CI",
+      "SL"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+231"
+  },
+  "LY": {
+    "code": "LY",
+    "name": "Libia",
+    "flag": "🇱🇾",
+    "continent": "África",
+    "subregion": "Norte de África",
+    "capital": "Trípoli",
+    "population": 7000000,
+    "area_km2": 1759540,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Dinar libio",
+    "currency_code": "LYD",
+    "government": "Gobierno de transición",
+    "borders": [
+      "DZ",
+      "TD",
+      "EG",
+      "NE",
+      "SD",
+      "TN"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "negro",
+      "verde",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+218"
+  },
+  "LI": {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "flag": "🇱🇮",
+    "continent": "Europa",
+    "subregion": "Europa Central",
+    "capital": "Vaduz",
+    "population": 40000,
+    "area_km2": 160,
+    "official_languages": [
+      "alemán"
+    ],
+    "currency": "Franco suizo",
+    "currency_code": "CHF",
+    "government": "Monarquía constitucional",
+    "borders": [
+      "AT",
+      "CH"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "rojo",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+423"
+  },
+  "LT": {
+    "code": "LT",
+    "name": "Lituania",
+    "flag": "🇱🇹",
+    "continent": "Europa",
+    "subregion": "Europa del Norte",
+    "capital": "Vilna",
+    "population": 2800000,
+    "area_km2": 65300,
+    "official_languages": [
+      "lituano"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República semipresidencialista",
+    "borders": [
+      "BY",
+      "LV",
+      "PL",
+      "RU"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "amarillo",
+      "verde",
+      "rojo"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+370"
+  },
+  "LU": {
+    "code": "LU",
+    "name": "Luxemburgo",
+    "flag": "🇱🇺",
+    "continent": "Europa",
+    "subregion": "Europa Occidental",
+    "capital": "Luxemburgo",
+    "population": 660000,
+    "area_km2": 2586,
+    "official_languages": [
+      "luxemburgués",
+      "francés",
+      "alemán"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "Monarquía constitucional",
+    "borders": [
+      "BE",
+      "FR",
+      "DE"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "azul"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+352"
+  },
+  "LB": {
+    "code": "LB",
+    "name": "Líbano",
+    "flag": "🇱🇧",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Beirut",
+    "population": 5500000,
+    "area_km2": 10452,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Libra libanesa",
+    "currency_code": "LBP",
+    "government": "República parlamentaria",
+    "borders": [
+      "IL",
+      "SY"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+961"
+  },
+  "MK": {
+    "code": "MK",
+    "name": "Macedonia del Norte",
+    "flag": "🇲🇰",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "Skopie",
+    "population": 2100000,
+    "area_km2": 25713,
+    "official_languages": [
+      "macedonio",
+      "albanés"
+    ],
+    "currency": "Denar macedonio",
+    "currency_code": "MKD",
+    "government": "República parlamentaria",
+    "borders": [
+      "AL",
+      "BG",
+      "GR",
+      "XK",
+      "RS"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": true,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+389"
+  },
+  "MG": {
+    "code": "MG",
+    "name": "Madagascar",
+    "flag": "🇲🇬",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Antananarivo",
+    "population": 30000000,
+    "area_km2": 587041,
+    "official_languages": [
+      "malgache",
+      "francés"
+    ],
+    "currency": "Ariary malgache",
+    "currency_code": "MGA",
+    "government": "República semipresidencialista",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "blanco",
+      "rojo",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "right",
+    "calling_code": "+261"
+  },
+  "MY": {
+    "code": "MY",
+    "name": "Malasia",
+    "flag": "🇲🇾",
+    "continent": "Asia",
+    "subregion": "Sudeste Asiático",
+    "capital": "Kuala Lumpur",
+    "population": 33500000,
+    "area_km2": 330803,
+    "official_languages": [
+      "malayo"
+    ],
+    "currency": "Ringgit",
+    "currency_code": "MYR",
+    "government": "Monarquía federal parlamentaria",
+    "borders": [
+      "BN",
+      "ID",
+      "TH"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico",
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "azul",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+60"
+  },
+  "MW": {
+    "code": "MW",
+    "name": "Malaui",
+    "flag": "🇲🇼",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Lilongüe",
+    "population": 20400000,
+    "area_km2": 118484,
+    "official_languages": [
+      "chichewa",
+      "inglés"
+    ],
+    "currency": "Kwacha malauí",
+    "currency_code": "MWK",
+    "government": "República presidencialista",
+    "borders": [
+      "MZ",
+      "TZ",
+      "ZM"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "negro",
+      "rojo",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+265"
+  },
+  "MV": {
+    "code": "MV",
+    "name": "Maldivas",
+    "flag": "🇲🇻",
+    "continent": "Asia",
+    "subregion": "Asia Meridional",
+    "capital": "Malé",
+    "population": 540000,
+    "area_km2": 298,
+    "official_languages": [
+      "dhivehi"
+    ],
+    "currency": "Rufiyaa",
+    "currency_code": "MVR",
+    "government": "República presidencialista",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "verde",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+960"
+  },
+  "MT": {
+    "code": "MT",
+    "name": "Malta",
+    "flag": "🇲🇹",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "La Valeta",
+    "population": 540000,
+    "area_km2": 316,
+    "official_languages": [
+      "maltés",
+      "inglés"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": true,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+356"
+  },
+  "ML": {
+    "code": "ML",
+    "name": "Malí",
+    "flag": "🇲🇱",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Bamako",
+    "population": 22600000,
+    "area_km2": 1240192,
+    "official_languages": [
+      "bambara",
+      "francés"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XOF",
+    "government": "Junta militar",
+    "borders": [
+      "DZ",
+      "BF",
+      "GN",
+      "CI",
+      "MR",
+      "NE",
+      "SN"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+223"
+  },
+  "MA": {
+    "code": "MA",
+    "name": "Marruecos",
+    "flag": "🇲🇦",
+    "continent": "África",
+    "subregion": "Norte de África",
+    "capital": "Rabat",
+    "population": 37500000,
+    "area_km2": 446550,
+    "official_languages": [
+      "árabe",
+      "bereber"
+    ],
+    "currency": "Dírham marroquí",
+    "currency_code": "MAD",
+    "government": "Monarquía constitucional",
+    "borders": [
+      "DZ",
+      "EH",
+      "ES"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico",
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+212"
+  },
+  "MU": {
+    "code": "MU",
+    "name": "Mauricio",
+    "flag": "🇲🇺",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Port Louis",
+    "population": 1300000,
+    "area_km2": 2040,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Rupia de Mauricio",
+    "currency_code": "MUR",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "azul",
+      "amarillo",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+230"
+  },
+  "MR": {
+    "code": "MR",
+    "name": "Mauritania",
+    "flag": "🇲🇷",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Nuakchot",
+    "population": 4900000,
+    "area_km2": 1030700,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Uguiya",
+    "currency_code": "MRU",
+    "government": "República presidencialista",
+    "borders": [
+      "DZ",
+      "ML",
+      "SN",
+      "EH"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+222"
+  },
+  "FM": {
+    "code": "FM",
+    "name": "Micronesia",
+    "flag": "🇫🇲",
+    "continent": "Oceanía",
+    "subregion": "Micronesia",
+    "capital": "Palikir",
+    "population": 115000,
+    "area_km2": 702,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar estadounidense",
+    "currency_code": "USD",
+    "government": "República federal presidencialista",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "right",
+    "calling_code": "+691"
+  },
+  "MD": {
+    "code": "MD",
+    "name": "Moldavia",
+    "flag": "🇲🇩",
+    "continent": "Europa",
+    "subregion": "Europa del Este",
+    "capital": "Chisináu",
+    "population": 2500000,
+    "area_km2": 33846,
+    "official_languages": [
+      "rumano"
+    ],
+    "currency": "Leu moldavo",
+    "currency_code": "MDL",
+    "government": "República parlamentaria",
+    "borders": [
+      "RO",
+      "UA"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+373"
+  },
+  "MN": {
+    "code": "MN",
+    "name": "Mongolia",
+    "flag": "🇲🇳",
+    "continent": "Asia",
+    "subregion": "Asia Oriental",
+    "capital": "Ulán Bator",
+    "population": 3400000,
+    "area_km2": 1564110,
+    "official_languages": [
+      "mongol"
+    ],
+    "currency": "Tugrik",
+    "currency_code": "MNT",
+    "government": "República semipresidencialista",
+    "borders": [
+      "CN",
+      "RU"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "azul",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+976"
+  },
+  "ME": {
+    "code": "ME",
+    "name": "Montenegro",
+    "flag": "🇲🇪",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "Podgorica",
+    "population": 620000,
+    "area_km2": 13812,
+    "official_languages": [
+      "montenegrino"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República parlamentaria",
+    "borders": [
+      "AL",
+      "BA",
+      "HR",
+      "XK",
+      "RS"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+382"
+  },
+  "MZ": {
+    "code": "MZ",
+    "name": "Mozambique",
+    "flag": "🇲🇿",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Maputo",
+    "population": 33000000,
+    "area_km2": 801590,
+    "official_languages": [
+      "portugués"
+    ],
+    "currency": "Metical",
+    "currency_code": "MZN",
+    "government": "República presidencialista",
+    "borders": [
+      "MW",
+      "ZA",
+      "SZ",
+      "TZ",
+      "ZM",
+      "ZW"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "negro",
+      "amarillo",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+258"
+  },
+  "MX": {
+    "code": "MX",
+    "name": "México",
+    "flag": "🇲🇽",
+    "continent": "América",
+    "subregion": "Norteamérica",
+    "capital": "Ciudad de México",
+    "population": 129000000,
+    "area_km2": 1964375,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Peso mexicano",
+    "currency_code": "MXN",
+    "government": "República federal presidencialista",
+    "borders": [
+      "BZ",
+      "GT",
+      "US"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico",
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "verde",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+52"
+  },
+  "MC": {
+    "code": "MC",
+    "name": "Mónaco",
+    "flag": "🇲🇨",
+    "continent": "Europa",
+    "subregion": "Europa Occidental",
+    "capital": "Mónaco",
+    "population": 39000,
+    "area_km2": 2.02,
+    "official_languages": [
+      "francés"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "Monarquía constitucional",
+    "borders": [
+      "FR"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+377"
+  },
+  "NA": {
+    "code": "NA",
+    "name": "Namibia",
+    "flag": "🇳🇦",
+    "continent": "África",
+    "subregion": "África Austral",
+    "capital": "Windhoek",
+    "population": 2600000,
+    "area_km2": 825615,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar namibio",
+    "currency_code": "NAD",
+    "government": "República presidencialista",
+    "borders": [
+      "AO",
+      "BW",
+      "ZA",
+      "ZM"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "rojo",
+      "verde",
+      "blanco",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+264"
+  },
+  "NR": {
+    "code": "NR",
+    "name": "Nauru",
+    "flag": "🇳🇷",
+    "continent": "Oceanía",
+    "subregion": "Micronesia",
+    "capital": "Yaren",
+    "population": 12500,
+    "area_km2": 21,
+    "official_languages": [
+      "nauruano",
+      "inglés"
+    ],
+    "currency": "Dólar australiano",
+    "currency_code": "AUD",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+674"
+  },
+  "NP": {
+    "code": "NP",
+    "name": "Nepal",
+    "flag": "🇳🇵",
+    "continent": "Asia",
+    "subregion": "Asia Meridional",
+    "capital": "Katmandú",
+    "population": 30000000,
+    "area_km2": 147181,
+    "official_languages": [
+      "nepalí"
+    ],
+    "currency": "Rupia nepalí",
+    "currency_code": "NPR",
+    "government": "República federal parlamentaria",
+    "borders": [
+      "CN",
+      "IN"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "azul",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+977"
+  },
+  "NI": {
+    "code": "NI",
+    "name": "Nicaragua",
+    "flag": "🇳🇮",
+    "continent": "América",
+    "subregion": "Centroamérica",
+    "capital": "Managua",
+    "population": 6850000,
+    "area_km2": 130373,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Córdoba",
+    "currency_code": "NIO",
+    "government": "República presidencialista",
+    "borders": [
+      "CR",
+      "HN"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico",
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+505"
+  },
+  "NG": {
+    "code": "NG",
+    "name": "Nigeria",
+    "flag": "🇳🇬",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Abuya",
+    "population": 224000000,
+    "area_km2": 923768,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Naira",
+    "currency_code": "NGN",
+    "government": "República federal presidencialista",
+    "borders": [
+      "BJ",
+      "CM",
+      "TD",
+      "NE"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+234"
+  },
+  "NO": {
+    "code": "NO",
+    "name": "Noruega",
+    "flag": "🇳🇴",
+    "continent": "Europa",
+    "subregion": "Europa del Norte",
+    "capital": "Oslo",
+    "population": 5500000,
+    "area_km2": 385207,
+    "official_languages": [
+      "noruego"
+    ],
+    "currency": "Corona noruega",
+    "currency_code": "NOK",
+    "government": "Monarquía parlamentaria",
+    "borders": [
+      "FI",
+      "RU",
+      "SE"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico",
+      "Ártico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+47"
+  },
+  "NZ": {
+    "code": "NZ",
+    "name": "Nueva Zelanda",
+    "flag": "🇳🇿",
+    "continent": "Oceanía",
+    "subregion": "Australasia",
+    "capital": "Wellington",
+    "population": 5200000,
+    "area_km2": 268021,
+    "official_languages": [
+      "inglés",
+      "maorí"
+    ],
+    "currency": "Dólar neozelandés",
+    "currency_code": "NZD",
+    "government": "Monarquía parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+64"
+  },
+  "NE": {
+    "code": "NE",
+    "name": "Níger",
+    "flag": "🇳🇪",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Niamey",
+    "population": 26200000,
+    "area_km2": 1267000,
+    "official_languages": [
+      "francés"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XOF",
+    "government": "Junta militar",
+    "borders": [
+      "DZ",
+      "BJ",
+      "BF",
+      "TD",
+      "LY",
+      "ML",
+      "NG"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "naranja",
+      "blanco",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+227"
+  },
+  "OM": {
+    "code": "OM",
+    "name": "Omán",
+    "flag": "🇴🇲",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Mascate",
+    "population": 4600000,
+    "area_km2": 309500,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Rial omaní",
+    "currency_code": "OMR",
+    "government": "Monarquía absoluta",
+    "borders": [
+      "SA",
+      "AE",
+      "YE"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+968"
+  },
+  "PK": {
+    "code": "PK",
+    "name": "Pakistán",
+    "flag": "🇵🇰",
+    "continent": "Asia",
+    "subregion": "Asia Meridional",
+    "capital": "Islamabad",
+    "population": 240000000,
+    "area_km2": 881912,
+    "official_languages": [
+      "urdu",
+      "inglés"
+    ],
+    "currency": "Rupia pakistaní",
+    "currency_code": "PKR",
+    "government": "República federal parlamentaria",
+    "borders": [
+      "AF",
+      "CN",
+      "IN",
+      "IR"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+92"
+  },
+  "PW": {
+    "code": "PW",
+    "name": "Palaos",
+    "flag": "🇵🇼",
+    "continent": "Oceanía",
+    "subregion": "Micronesia",
+    "capital": "Ngerulmud",
+    "population": 18000,
+    "area_km2": 459,
+    "official_languages": [
+      "inglés",
+      "palauano"
+    ],
+    "currency": "Dólar estadounidense",
+    "currency_code": "USD",
+    "government": "República presidencialista",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "right",
+    "calling_code": "+680"
+  },
+  "PS": {
+    "code": "PS",
+    "name": "Palestina",
+    "flag": "🇵🇸",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Jerusalén Este",
+    "population": 5500000,
+    "area_km2": 6020,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Nuevo séquel",
+    "currency_code": "ILS",
+    "government": "República semipresidencialista",
+    "borders": [
+      "IL",
+      "EG",
+      "JO"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "negro",
+      "blanco",
+      "verde",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+970"
+  },
+  "PA": {
+    "code": "PA",
+    "name": "Panamá",
+    "flag": "🇵🇦",
+    "continent": "América",
+    "subregion": "Centroamérica",
+    "capital": "Ciudad de Panamá",
+    "population": 4400000,
+    "area_km2": 75417,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Balboa",
+    "currency_code": "PAB",
+    "government": "República presidencialista",
+    "borders": [
+      "CO",
+      "CR"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico",
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+507"
+  },
+  "PG": {
+    "code": "PG",
+    "name": "Papúa Nueva Guinea",
+    "flag": "🇵🇬",
+    "continent": "Oceanía",
+    "subregion": "Melanesia",
+    "capital": "Puerto Moresby",
+    "population": 10200000,
+    "area_km2": 462840,
+    "official_languages": [
+      "inglés",
+      "tok pisin",
+      "hiri motu"
+    ],
+    "currency": "Kina",
+    "currency_code": "PGK",
+    "government": "Monarquía parlamentaria",
+    "borders": [
+      "ID"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "negro",
+      "amarillo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+675"
+  },
+  "PY": {
+    "code": "PY",
+    "name": "Paraguay",
+    "flag": "🇵🇾",
+    "continent": "América",
+    "subregion": "Sudamérica",
+    "capital": "Asunción",
+    "population": 6900000,
+    "area_km2": 406752,
+    "official_languages": [
+      "español",
+      "guaraní"
+    ],
+    "currency": "Guaraní paraguayo",
+    "currency_code": "PYG",
+    "government": "República presidencialista",
+    "borders": [
+      "AR",
+      "BO",
+      "BR"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+595"
+  },
+  "NL": {
+    "code": "NL",
+    "name": "Países Bajos",
+    "flag": "🇳🇱",
+    "continent": "Europa",
+    "subregion": "Europa Occidental",
+    "capital": "Ámsterdam",
+    "population": 17800000,
+    "area_km2": 41850,
+    "official_languages": [
+      "neerlandés"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "Monarquía parlamentaria",
+    "borders": [
+      "BE",
+      "DE"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "azul"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+31"
+  },
+  "PE": {
+    "code": "PE",
+    "name": "Perú",
+    "flag": "🇵🇪",
+    "continent": "América",
+    "subregion": "Sudamérica",
+    "capital": "Lima",
+    "population": 33700000,
+    "area_km2": 1285216,
+    "official_languages": [
+      "español",
+      "quechua",
+      "aimara"
+    ],
+    "currency": "Sol",
+    "currency_code": "PEN",
+    "government": "República presidencialista",
+    "borders": [
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "EC"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+51"
+  },
+  "PL": {
+    "code": "PL",
+    "name": "Polonia",
+    "flag": "🇵🇱",
+    "continent": "Europa",
+    "subregion": "Europa Central",
+    "capital": "Varsovia",
+    "population": 38000000,
+    "area_km2": 312696,
+    "official_languages": [
+      "polaco"
+    ],
+    "currency": "Esloti",
+    "currency_code": "PLN",
+    "government": "República parlamentaria",
+    "borders": [
+      "BY",
+      "CZ",
+      "DE",
+      "LT",
+      "RU",
+      "SK",
+      "UA"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+48"
+  },
+  "PT": {
+    "code": "PT",
+    "name": "Portugal",
+    "flag": "🇵🇹",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "Lisboa",
+    "population": 10300000,
+    "area_km2": 92090,
+    "official_languages": [
+      "portugués"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República semipresidencialista",
+    "borders": [
+      "ES"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "verde",
+      "rojo",
+      "amarillo"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+351"
+  },
+  "GB": {
+    "code": "GB",
+    "name": "Reino Unido",
+    "flag": "🇬🇧",
+    "continent": "Europa",
+    "subregion": "Europa del Norte",
+    "capital": "Londres",
+    "population": 67700000,
+    "area_km2": 243610,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Libra esterlina",
+    "currency_code": "GBP",
+    "government": "Monarquía parlamentaria",
+    "borders": [
+      "IE",
+      "ES"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+44"
+  },
+  "CF": {
+    "code": "CF",
+    "name": "República Centroafricana",
+    "flag": "🇨🇫",
+    "continent": "África",
+    "subregion": "África Central",
+    "capital": "Bangui",
+    "population": 5500000,
+    "area_km2": 622984,
+    "official_languages": [
+      "francés",
+      "sango"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XAF",
+    "government": "República presidencialista",
+    "borders": [
+      "CM",
+      "TD",
+      "CD",
+      "CG",
+      "SS",
+      "SD"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "verde",
+      "amarillo",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+236"
+  },
+  "CZ": {
+    "code": "CZ",
+    "name": "República Checa",
+    "flag": "🇨🇿",
+    "continent": "Europa",
+    "subregion": "Europa Central",
+    "capital": "Praga",
+    "population": 10500000,
+    "area_km2": 78867,
+    "official_languages": [
+      "checo"
+    ],
+    "currency": "Corona checa",
+    "currency_code": "CZK",
+    "government": "República parlamentaria",
+    "borders": [
+      "AT",
+      "DE",
+      "PL",
+      "SK"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "blanco",
+      "rojo",
+      "azul"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+420"
+  },
+  "CD": {
+    "code": "CD",
+    "name": "República Democrática del Congo",
+    "flag": "🇨🇩",
+    "continent": "África",
+    "subregion": "África Central",
+    "capital": "Kinsasa",
+    "population": 102000000,
+    "area_km2": 2344858,
+    "official_languages": [
+      "francés"
+    ],
+    "currency": "Franco congoleño",
+    "currency_code": "CDF",
+    "government": "República semipresidencialista",
+    "borders": [
+      "AO",
+      "BI",
+      "CF",
+      "CG",
+      "RW",
+      "SS",
+      "TZ",
+      "UG",
+      "ZM"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+243"
+  },
+  "DO": {
+    "code": "DO",
+    "name": "República Dominicana",
+    "flag": "🇩🇴",
+    "continent": "América",
+    "subregion": "Caribe",
+    "capital": "Santo Domingo",
+    "population": 11200000,
+    "area_km2": 48671,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Peso dominicano",
+    "currency_code": "DOP",
+    "government": "República presidencialista",
+    "borders": [
+      "HT"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+1809"
+  },
+  "CG": {
+    "code": "CG",
+    "name": "República del Congo",
+    "flag": "🇨🇬",
+    "continent": "África",
+    "subregion": "África Central",
+    "capital": "Brazzaville",
+    "population": 5800000,
+    "area_km2": 342000,
+    "official_languages": [
+      "francés"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XAF",
+    "government": "República presidencialista",
+    "borders": [
+      "AO",
+      "CM",
+      "CF",
+      "CD",
+      "GA"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+242"
+  },
+  "RW": {
+    "code": "RW",
+    "name": "Ruanda",
+    "flag": "🇷🇼",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Kigali",
+    "population": 13700000,
+    "area_km2": 26338,
+    "official_languages": [
+      "kinyarwanda",
+      "inglés",
+      "francés"
+    ],
+    "currency": "Franco ruandés",
+    "currency_code": "RWF",
+    "government": "República presidencialista",
+    "borders": [
+      "BI",
+      "CD",
+      "TZ",
+      "UG"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+250"
+  },
+  "RO": {
+    "code": "RO",
+    "name": "Rumania",
+    "flag": "🇷🇴",
+    "continent": "Europa",
+    "subregion": "Europa del Este",
+    "capital": "Bucarest",
+    "population": 19000000,
+    "area_km2": 238397,
+    "official_languages": [
+      "rumano"
+    ],
+    "currency": "Leu rumano",
+    "currency_code": "RON",
+    "government": "República semipresidencialista",
+    "borders": [
+      "BG",
+      "HU",
+      "MD",
+      "RS",
+      "UA"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "rojo"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+40"
+  },
+  "RU": {
+    "code": "RU",
+    "name": "Rusia",
+    "flag": "🇷🇺",
+    "continent": "Europa",
+    "subregion": "Europa del Este",
+    "capital": "Moscú",
+    "population": 144000000,
+    "area_km2": 17098242,
+    "official_languages": [
+      "ruso"
+    ],
+    "currency": "Rublo ruso",
+    "currency_code": "RUB",
+    "government": "República federal semipresidencialista",
+    "borders": [
+      "AZ",
+      "BY",
+      "CN",
+      "EE",
+      "FI",
+      "GE",
+      "KZ",
+      "KP",
+      "LV",
+      "LT",
+      "MN",
+      "NO",
+      "PL",
+      "UA"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico",
+      "Pacífico",
+      "Ártico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "blanco",
+      "azul",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+7"
+  },
+  "WS": {
+    "code": "WS",
+    "name": "Samoa",
+    "flag": "🇼🇸",
+    "continent": "Oceanía",
+    "subregion": "Polinesia",
+    "capital": "Apia",
+    "population": 220000,
+    "area_km2": 2842,
+    "official_languages": [
+      "samoano",
+      "inglés"
+    ],
+    "currency": "Tala",
+    "currency_code": "WST",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "azul",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+685"
+  },
+  "KN": {
+    "code": "KN",
+    "name": "San Cristóbal y Nieves",
+    "flag": "🇰🇳",
+    "continent": "América",
+    "subregion": "Caribe",
+    "capital": "Basseterre",
+    "population": 48000,
+    "area_km2": 261,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar del Caribe Oriental",
+    "currency_code": "XCD",
+    "government": "Monarquía parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "verde",
+      "rojo",
+      "amarillo",
+      "negro",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+1869"
+  },
+  "SM": {
+    "code": "SM",
+    "name": "San Marino",
+    "flag": "🇸🇲",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "San Marino",
+    "population": 34000,
+    "area_km2": 61,
+    "official_languages": [
+      "italiano"
+    ],
+    "currency": "Euro",
+    "currency_code": "EUR",
+    "government": "República parlamentaria",
+    "borders": [
+      "IT"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "blanco",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+378"
+  },
+  "VC": {
+    "code": "VC",
+    "name": "San Vicente y las Granadinas",
+    "flag": "🇻🇨",
+    "continent": "América",
+    "subregion": "Caribe",
+    "capital": "Kingstown",
+    "population": 105000,
+    "area_km2": 389,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar del Caribe Oriental",
+    "currency_code": "XCD",
+    "government": "Monarquía parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+1784"
+  },
+  "LC": {
+    "code": "LC",
+    "name": "Santa Lucía",
+    "flag": "🇱🇨",
+    "continent": "América",
+    "subregion": "Caribe",
+    "capital": "Castries",
+    "population": 180000,
+    "area_km2": 616,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar del Caribe Oriental",
+    "currency_code": "XCD",
+    "government": "Monarquía parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "negro",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+1758"
+  },
+  "ST": {
+    "code": "ST",
+    "name": "Santo Tomé y Príncipe",
+    "flag": "🇸🇹",
+    "continent": "África",
+    "subregion": "África Central",
+    "capital": "Santo Tomé",
+    "population": 230000,
+    "area_km2": 964,
+    "official_languages": [
+      "portugués"
+    ],
+    "currency": "Dobra",
+    "currency_code": "STN",
+    "government": "República semipresidencialista",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "rojo",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "right",
+    "calling_code": "+239"
+  },
+  "SN": {
+    "code": "SN",
+    "name": "Senegal",
+    "flag": "🇸🇳",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Dakar",
+    "population": 18000000,
+    "area_km2": 196722,
+    "official_languages": [
+      "francés"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XOF",
+    "government": "República presidencialista",
+    "borders": [
+      "GM",
+      "GN",
+      "GW",
+      "ML",
+      "MR"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+221"
+  },
+  "RS": {
+    "code": "RS",
+    "name": "Serbia",
+    "flag": "🇷🇸",
+    "continent": "Europa",
+    "subregion": "Europa del Sur",
+    "capital": "Belgrado",
+    "population": 6700000,
+    "area_km2": 88361,
+    "official_languages": [
+      "serbio"
+    ],
+    "currency": "Dinar serbio",
+    "currency_code": "RSD",
+    "government": "República parlamentaria",
+    "borders": [
+      "BA",
+      "BG",
+      "HR",
+      "HU",
+      "XK",
+      "MK",
+      "ME",
+      "RO"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "azul",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+381"
+  },
+  "SC": {
+    "code": "SC",
+    "name": "Seychelles",
+    "flag": "🇸🇨",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Victoria",
+    "population": 105000,
+    "area_km2": 459,
+    "official_languages": [
+      "inglés",
+      "francés",
+      "criollo seychelense"
+    ],
+    "currency": "Rupia de Seychelles",
+    "currency_code": "SCR",
+    "government": "República presidencialista",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "rojo",
+      "blanco",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+248"
+  },
+  "SL": {
+    "code": "SL",
+    "name": "Sierra Leona",
+    "flag": "🇸🇱",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Freetown",
+    "population": 8500000,
+    "area_km2": 71740,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Leone",
+    "currency_code": "SLL",
+    "government": "República presidencialista",
+    "borders": [
+      "GN",
+      "LR"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "verde",
+      "blanco",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+232"
+  },
+  "SG": {
+    "code": "SG",
+    "name": "Singapur",
+    "flag": "🇸🇬",
+    "continent": "Asia",
+    "subregion": "Sudeste Asiático",
+    "capital": "Singapur",
+    "population": 5900000,
+    "area_km2": 728,
+    "official_languages": [
+      "inglés",
+      "malayo",
+      "chino",
+      "tamil"
+    ],
+    "currency": "Dólar de Singapur",
+    "currency_code": "SGD",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+65"
+  },
+  "SY": {
+    "code": "SY",
+    "name": "Siria",
+    "flag": "🇸🇾",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Damasco",
+    "population": 23000000,
+    "area_km2": 185180,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Libra siria",
+    "currency_code": "SYP",
+    "government": "Gobierno de transición",
+    "borders": [
+      "IQ",
+      "IL",
+      "JO",
+      "LB",
+      "TR"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "blanco",
+      "negro",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+963"
+  },
+  "SO": {
+    "code": "SO",
+    "name": "Somalia",
+    "flag": "🇸🇴",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Mogadiscio",
+    "population": 17600000,
+    "area_km2": 637657,
+    "official_languages": [
+      "somalí",
+      "árabe"
+    ],
+    "currency": "Chelín somalí",
+    "currency_code": "SOS",
+    "government": "República federal parlamentaria",
+    "borders": [
+      "DJ",
+      "ET",
+      "KE"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+252"
+  },
+  "LK": {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "flag": "🇱🇰",
+    "continent": "Asia",
+    "subregion": "Asia Meridional",
+    "capital": "Sri Jayawardenapura",
+    "population": 22000000,
+    "area_km2": 65610,
+    "official_languages": [
+      "cingalés",
+      "tamil"
+    ],
+    "currency": "Rupia de Sri Lanka",
+    "currency_code": "LKR",
+    "government": "República semipresidencialista",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "amarillo",
+      "verde",
+      "naranja"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+94"
+  },
+  "ZA": {
+    "code": "ZA",
+    "name": "Sudáfrica",
+    "flag": "🇿🇦",
+    "continent": "África",
+    "subregion": "África Austral",
+    "capital": "Pretoria",
+    "population": 60400000,
+    "area_km2": 1221037,
+    "official_languages": [
+      "afrikáans",
+      "inglés",
+      "zulú",
+      "xhosa"
+    ],
+    "currency": "Rand",
+    "currency_code": "ZAR",
+    "government": "República parlamentaria",
+    "borders": [
+      "BW",
+      "LS",
+      "MZ",
+      "NA",
+      "SZ",
+      "ZW"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico",
+      "Índico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "verde",
+      "azul",
+      "amarillo",
+      "negro",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+27"
+  },
+  "SD": {
+    "code": "SD",
+    "name": "Sudán",
+    "flag": "🇸🇩",
+    "continent": "África",
+    "subregion": "Norte de África",
+    "capital": "Jartum",
+    "population": 47000000,
+    "area_km2": 1861484,
+    "official_languages": [
+      "árabe",
+      "inglés"
+    ],
+    "currency": "Libra sudanesa",
+    "currency_code": "SDG",
+    "government": "Junta militar",
+    "borders": [
+      "CF",
+      "TD",
+      "EG",
+      "ER",
+      "ET",
+      "LY",
+      "SS"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "negro",
+      "verde"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+249"
+  },
+  "SS": {
+    "code": "SS",
+    "name": "Sudán del Sur",
+    "flag": "🇸🇸",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Yuba",
+    "population": 11000000,
+    "area_km2": 619745,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Libra sursudanesa",
+    "currency_code": "SSP",
+    "government": "República presidencialista",
+    "borders": [
+      "CF",
+      "CD",
+      "ET",
+      "KE",
+      "SD",
+      "UG",
+      "TD"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "negro",
+      "rojo",
+      "verde",
+      "azul",
+      "amarillo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+211"
+  },
+  "SE": {
+    "code": "SE",
+    "name": "Suecia",
+    "flag": "🇸🇪",
+    "continent": "Europa",
+    "subregion": "Europa del Norte",
+    "capital": "Estocolmo",
+    "population": 10500000,
+    "area_km2": 450295,
+    "official_languages": [
+      "sueco"
+    ],
+    "currency": "Corona sueca",
+    "currency_code": "SEK",
+    "government": "Monarquía parlamentaria",
+    "borders": [
+      "FI",
+      "NO"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo"
+    ],
+    "in_EU": true,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+46"
+  },
+  "CH": {
+    "code": "CH",
+    "name": "Suiza",
+    "flag": "🇨🇭",
+    "continent": "Europa",
+    "subregion": "Europa Central",
+    "capital": "Berna",
+    "population": 8800000,
+    "area_km2": 41277,
+    "official_languages": [
+      "alemán",
+      "francés",
+      "italiano",
+      "romanche"
+    ],
+    "currency": "Franco suizo",
+    "currency_code": "CHF",
+    "government": "República federal directorial",
+    "borders": [
+      "AT",
+      "FR",
+      "IT",
+      "LI",
+      "DE"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+41"
+  },
+  "SR": {
+    "code": "SR",
+    "name": "Surinam",
+    "flag": "🇸🇷",
+    "continent": "América",
+    "subregion": "Sudamérica",
+    "capital": "Paramaribo",
+    "population": 620000,
+    "area_km2": 163820,
+    "official_languages": [
+      "neerlandés"
+    ],
+    "currency": "Dólar surinamés",
+    "currency_code": "SRD",
+    "government": "República presidencialista",
+    "borders": [
+      "BR",
+      "GF",
+      "GY"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "verde",
+      "blanco",
+      "rojo",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+597"
+  },
+  "TH": {
+    "code": "TH",
+    "name": "Tailandia",
+    "flag": "🇹🇭",
+    "continent": "Asia",
+    "subregion": "Sudeste Asiático",
+    "capital": "Bangkok",
+    "population": 71700000,
+    "area_km2": 513120,
+    "official_languages": [
+      "tailandés"
+    ],
+    "currency": "Baht",
+    "currency_code": "THB",
+    "government": "Monarquía constitucional",
+    "borders": [
+      "MM",
+      "KH",
+      "LA",
+      "MY"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico",
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+66"
+  },
+  "TZ": {
+    "code": "TZ",
+    "name": "Tanzania",
+    "flag": "🇹🇿",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Dodoma",
+    "population": 65500000,
+    "area_km2": 945087,
+    "official_languages": [
+      "suajili",
+      "inglés"
+    ],
+    "currency": "Chelín tanzano",
+    "currency_code": "TZS",
+    "government": "República presidencialista",
+    "borders": [
+      "BI",
+      "CD",
+      "KE",
+      "MW",
+      "MZ",
+      "RW",
+      "UG",
+      "ZM"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "negro",
+      "azul"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+255"
+  },
+  "TJ": {
+    "code": "TJ",
+    "name": "Tayikistán",
+    "flag": "🇹🇯",
+    "continent": "Asia",
+    "subregion": "Asia Central",
+    "capital": "Dusambé",
+    "population": 10100000,
+    "area_km2": 144100,
+    "official_languages": [
+      "tayiko"
+    ],
+    "currency": "Somoni",
+    "currency_code": "TJS",
+    "government": "República presidencialista",
+    "borders": [
+      "AF",
+      "CN",
+      "KG",
+      "UZ"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "verde",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+992"
+  },
+  "TL": {
+    "code": "TL",
+    "name": "Timor Oriental",
+    "flag": "🇹🇱",
+    "continent": "Asia",
+    "subregion": "Sudeste Asiático",
+    "capital": "Dili",
+    "population": 1380000,
+    "area_km2": 14874,
+    "official_languages": [
+      "tetun",
+      "portugués"
+    ],
+    "currency": "Dólar estadounidense",
+    "currency_code": "USD",
+    "government": "República semipresidencialista",
+    "borders": [
+      "ID"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "amarillo",
+      "negro",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+670"
+  },
+  "TG": {
+    "code": "TG",
+    "name": "Togo",
+    "flag": "🇹🇬",
+    "continent": "África",
+    "subregion": "África Occidental",
+    "capital": "Lomé",
+    "population": 8800000,
+    "area_km2": 56785,
+    "official_languages": [
+      "francés"
+    ],
+    "currency": "Franco CFA",
+    "currency_code": "XOF",
+    "government": "República presidencialista",
+    "borders": [
+      "BJ",
+      "BF",
+      "GH"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+228"
+  },
+  "TO": {
+    "code": "TO",
+    "name": "Tonga",
+    "flag": "🇹🇴",
+    "continent": "Oceanía",
+    "subregion": "Polinesia",
+    "capital": "Nukualofa",
+    "population": 105000,
+    "area_km2": 747,
+    "official_languages": [
+      "tongano",
+      "inglés"
+    ],
+    "currency": "Paanga",
+    "currency_code": "TOP",
+    "government": "Monarquía constitucional",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+676"
+  },
+  "TT": {
+    "code": "TT",
+    "name": "Trinidad y Tobago",
+    "flag": "🇹🇹",
+    "continent": "América",
+    "subregion": "Caribe",
+    "capital": "Puerto España",
+    "population": 1400000,
+    "area_km2": 5130,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Dólar de Trinidad y Tobago",
+    "currency_code": "TTD",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+1868"
+  },
+  "TM": {
+    "code": "TM",
+    "name": "Turkmenistán",
+    "flag": "🇹🇲",
+    "continent": "Asia",
+    "subregion": "Asia Central",
+    "capital": "Asjabad",
+    "population": 6400000,
+    "area_km2": 488100,
+    "official_languages": [
+      "turcomano"
+    ],
+    "currency": "Manat turcomano",
+    "currency_code": "TMT",
+    "government": "República presidencialista",
+    "borders": [
+      "AF",
+      "IR",
+      "KZ",
+      "UZ"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+993"
+  },
+  "TR": {
+    "code": "TR",
+    "name": "Turquía",
+    "flag": "🇹🇷",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Ankara",
+    "population": 85000000,
+    "area_km2": 783562,
+    "official_languages": [
+      "turco"
+    ],
+    "currency": "Lira turca",
+    "currency_code": "TRY",
+    "government": "República presidencialista",
+    "borders": [
+      "AM",
+      "AZ",
+      "BG",
+      "GE",
+      "GR",
+      "IR",
+      "IQ",
+      "SY"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo",
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": true,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+90"
+  },
+  "TV": {
+    "code": "TV",
+    "name": "Tuvalu",
+    "flag": "🇹🇻",
+    "continent": "Oceanía",
+    "subregion": "Polinesia",
+    "capital": "Funafuti",
+    "population": 11000,
+    "area_km2": 26,
+    "official_languages": [
+      "tuvaluano",
+      "inglés"
+    ],
+    "currency": "Dólar australiano",
+    "currency_code": "AUD",
+    "government": "Monarquía parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "left",
+    "calling_code": "+688"
+  },
+  "TN": {
+    "code": "TN",
+    "name": "Túnez",
+    "flag": "🇹🇳",
+    "continent": "África",
+    "subregion": "Norte de África",
+    "capital": "Túnez",
+    "population": 12000000,
+    "area_km2": 163610,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Dinar tunecino",
+    "currency_code": "TND",
+    "government": "República presidencialista",
+    "borders": [
+      "DZ",
+      "LY"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Mediterráneo"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+216"
+  },
+  "UA": {
+    "code": "UA",
+    "name": "Ucrania",
+    "flag": "🇺🇦",
+    "continent": "Europa",
+    "subregion": "Europa del Este",
+    "capital": "Kiev",
+    "population": 36000000,
+    "area_km2": 603628,
+    "official_languages": [
+      "ucraniano"
+    ],
+    "currency": "Grivna",
+    "currency_code": "UAH",
+    "government": "República semipresidencialista",
+    "borders": [
+      "BY",
+      "HU",
+      "MD",
+      "PL",
+      "RO",
+      "RU",
+      "SK"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+380"
+  },
+  "UG": {
+    "code": "UG",
+    "name": "Uganda",
+    "flag": "🇺🇬",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Kampala",
+    "population": 47100000,
+    "area_km2": 241038,
+    "official_languages": [
+      "inglés",
+      "suajili"
+    ],
+    "currency": "Chelín ugandés",
+    "currency_code": "UGX",
+    "government": "República presidencialista",
+    "borders": [
+      "CD",
+      "KE",
+      "RW",
+      "SS",
+      "TZ"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "negro",
+      "amarillo",
+      "rojo",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+256"
+  },
+  "UY": {
+    "code": "UY",
+    "name": "Uruguay",
+    "flag": "🇺🇾",
+    "continent": "América",
+    "subregion": "Sudamérica",
+    "capital": "Montevideo",
+    "population": 3400000,
+    "area_km2": 176215,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Peso uruguayo",
+    "currency_code": "UYU",
+    "government": "República presidencialista",
+    "borders": [
+      "AR",
+      "BR"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+598"
+  },
+  "UZ": {
+    "code": "UZ",
+    "name": "Uzbekistán",
+    "flag": "🇺🇿",
+    "continent": "Asia",
+    "subregion": "Asia Central",
+    "capital": "Taskent",
+    "population": 36400000,
+    "area_km2": 447400,
+    "official_languages": [
+      "uzbeko"
+    ],
+    "currency": "Som uzbeko",
+    "currency_code": "UZS",
+    "government": "República presidencialista",
+    "borders": [
+      "AF",
+      "KZ",
+      "KG",
+      "TJ",
+      "TM"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "blanco",
+      "verde",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+998"
+  },
+  "VU": {
+    "code": "VU",
+    "name": "Vanuatu",
+    "flag": "🇻🇺",
+    "continent": "Oceanía",
+    "subregion": "Melanesia",
+    "capital": "Port Vila",
+    "population": 320000,
+    "area_km2": 12189,
+    "official_languages": [
+      "bislama",
+      "inglés",
+      "francés"
+    ],
+    "currency": "Vatu",
+    "currency_code": "VUV",
+    "government": "República parlamentaria",
+    "borders": [],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "negro",
+      "verde",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": true,
+    "drives_on": "right",
+    "calling_code": "+678"
+  },
+  "VE": {
+    "code": "VE",
+    "name": "Venezuela",
+    "flag": "🇻🇪",
+    "continent": "América",
+    "subregion": "Sudamérica",
+    "capital": "Caracas",
+    "population": 28800000,
+    "area_km2": 916445,
+    "official_languages": [
+      "español"
+    ],
+    "currency": "Bolívar soberano",
+    "currency_code": "VES",
+    "government": "República presidencialista",
+    "borders": [
+      "BR",
+      "CO",
+      "GY"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Atlántico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Oeste",
+    "flag_colors": [
+      "amarillo",
+      "azul",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+58"
+  },
+  "VN": {
+    "code": "VN",
+    "name": "Vietnam",
+    "flag": "🇻🇳",
+    "continent": "Asia",
+    "subregion": "Sudeste Asiático",
+    "capital": "Hanói",
+    "population": 100000000,
+    "area_km2": 331212,
+    "official_languages": [
+      "vietnamita"
+    ],
+    "currency": "Dong",
+    "currency_code": "VND",
+    "government": "República socialista de partido único",
+    "borders": [
+      "KH",
+      "CN",
+      "LA"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Pacífico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "amarillo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+84"
+  },
+  "YE": {
+    "code": "YE",
+    "name": "Yemen",
+    "flag": "🇾🇪",
+    "continent": "Asia",
+    "subregion": "Asia Occidental",
+    "capital": "Saná",
+    "population": 33700000,
+    "area_km2": 527968,
+    "official_languages": [
+      "árabe"
+    ],
+    "currency": "Rial yemení",
+    "currency_code": "YER",
+    "government": "Gobierno de transición",
+    "borders": [
+      "OM",
+      "SA"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "rojo",
+      "blanco",
+      "negro"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+967"
+  },
+  "DJ": {
+    "code": "DJ",
+    "name": "Yibuti",
+    "flag": "🇩🇯",
+    "continent": "África",
+    "subregion": "África Oriental",
+    "capital": "Yibuti",
+    "population": 1100000,
+    "area_km2": 23200,
+    "official_languages": [
+      "francés",
+      "árabe"
+    ],
+    "currency": "Franco yibutiano",
+    "currency_code": "DJF",
+    "government": "República presidencialista",
+    "borders": [
+      "ER",
+      "ET",
+      "SO"
+    ],
+    "has_coast": true,
+    "oceans": [
+      "Índico"
+    ],
+    "hemisphere_NS": "Norte",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "azul",
+      "verde",
+      "blanco",
+      "rojo"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": false,
+    "is_island": false,
+    "drives_on": "right",
+    "calling_code": "+253"
+  },
+  "ZM": {
+    "code": "ZM",
+    "name": "Zambia",
+    "flag": "🇿🇲",
+    "continent": "África",
+    "subregion": "África Austral",
+    "capital": "Lusaka",
+    "population": 20000000,
+    "area_km2": 752618,
+    "official_languages": [
+      "inglés"
+    ],
+    "currency": "Kwacha zambiano",
+    "currency_code": "ZMW",
+    "government": "República presidencialista",
+    "borders": [
+      "AO",
+      "BW",
+      "CD",
+      "MW",
+      "MZ",
+      "NA",
+      "TZ",
+      "ZW"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "rojo",
+      "negro",
+      "naranja"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+260"
+  },
+  "ZW": {
+    "code": "ZW",
+    "name": "Zimbabue",
+    "flag": "🇿🇼",
+    "continent": "África",
+    "subregion": "África Austral",
+    "capital": "Harare",
+    "population": 16700000,
+    "area_km2": 390757,
+    "official_languages": [
+      "inglés",
+      "shona",
+      "ndebele"
+    ],
+    "currency": "Dólar zimbabuense",
+    "currency_code": "ZWL",
+    "government": "República presidencialista",
+    "borders": [
+      "BW",
+      "MZ",
+      "ZA",
+      "ZM"
+    ],
+    "has_coast": false,
+    "oceans": [],
+    "hemisphere_NS": "Sur",
+    "hemisphere_EW": "Este",
+    "flag_colors": [
+      "verde",
+      "amarillo",
+      "rojo",
+      "negro",
+      "blanco"
+    ],
+    "in_EU": false,
+    "in_NATO": false,
+    "landlocked": true,
+    "is_island": false,
+    "drives_on": "left",
+    "calling_code": "+263"
+  }
+}
