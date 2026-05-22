@@ -3199,11 +3199,16 @@ body:has(.pdd-mv-wrap) .footer-bottom   { border-top-color: #1a3a4a; }
   margin-bottom: 10px;
 }
 
-/* 2×2 grid on mobile, single column on very narrow */
+/* 2×5 en móvil, 5×2 en desktop */
 .pdd-mv-hints-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 10px;
+}
+@media (min-width: 768px) {
+  .pdd-mv-hints-grid {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
 }
 @media (max-width: 320px) {
   .pdd-mv-hints-grid { grid-template-columns: 1fr; }
@@ -3241,10 +3246,64 @@ body:has(.pdd-mv-wrap) .footer-bottom   { border-top-color: #1a3a4a; }
   font-size: 11px; color: #3a5a6a; font-style: italic;
 }
 
-/* Locked card */
-.pdd-mv-hint-locked {
-  opacity: .5;
+/* Attempt states — sin proximity, solo correcto/incorrecto */
+.pdd-mv-attempt-correct { border-color: rgba(29,158,117,.45); }
+.pdd-mv-attempt-correct .pdd-mv-att-name { color: #1d9e75; }
+.pdd-mv-attempt-wrong   { border-color: rgba(192,57,43,.3); }
+
+/* Puntos en cabecera de pista */
+.pdd-mv-hint-pts {
+  margin-left: auto;
+  font-family: monospace;
+  font-size: 10px;
+  color: #3a5a6a;
+  letter-spacing: .04em;
 }
+.pdd-mv-pts-active {
+  color: #d4a017;
+  font-weight: 700;
+}
+
+/* Hint card — overflow seguro */
+.pdd-mv-hint-card {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.pdd-mv-hint-text {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* Maps help block */
+.pdd-mv-maps-hint {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 10px 12px;
+  background: #0f2535;
+  border: 1px solid #1a3a4a;
+  border-radius: 10px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+.pdd-mv-maps-hint span {
+  font-size: 12px;
+  color: #7fa8b8;
+  flex: 1;
+  min-width: 0;
+}
+.pdd-mv-maps-link {
+  font-size: 12px;
+  color: #1d9e75;
+  font-weight: 600;
+  white-space: nowrap;
+  text-decoration: none;
+  border: 1px solid #1a3a4a;
+  border-radius: 6px;
+  padding: 5px 10px;
+}
+.pdd-mv-maps-link:hover { border-color: #1d9e75; text-decoration: none; }
 .pdd-mv-hint-locked .pdd-mv-hint-icon { filter: grayscale(1); }
 
 /* Active (latest unlocked) — amber glow */
