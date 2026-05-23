@@ -1,0 +1,98 @@
+/* ================================================================
+   MUNDOVS DESIGN SYSTEM — TOKENS
+   Variables globales. NO contiene reglas aplicadas a elementos.
+   Cargar ANTES de globals.css.
+   ================================================================ */
+
+:root {
+  /* ── Colores base ──────────────────────────────────────────── */
+  --mv-bg:            #071D2A;   /* fondo principal oscuro azul petróleo */
+  --mv-bg-2:          #0A2333;   /* fondo alternativo (secciones) */
+  --mv-card:          #0E2A3A;   /* card azul oscuro más claro */
+  --mv-card-2:        #123247;   /* card hover / variante */
+  --mv-card-border:   rgba(56, 189, 248, 0.12);
+  --mv-card-border-hover: rgba(56, 189, 248, 0.35);
+
+  /* ── Acentos ───────────────────────────────────────────────── */
+  --mv-green:         #20C997;   /* verde principal */
+  --mv-green-strong:  #18B889;
+  --mv-green-soft:    rgba(32, 201, 151, 0.12);
+  --mv-blue:          #38BDF8;   /* azul acento */
+  --mv-blue-strong:   #0EA5E9;
+  --mv-blue-soft:     rgba(56, 189, 248, 0.12);
+  --mv-gold:          #FACC15;   /* amarillo/dorado para retos */
+  --mv-gold-strong:   #EAB308;
+  --mv-gold-soft:     rgba(250, 204, 21, 0.12);
+  --mv-red:           #F87171;   /* fallo */
+  --mv-red-soft:      rgba(248, 113, 113, 0.14);
+
+  /* ── Texto ─────────────────────────────────────────────────── */
+  --mv-text:          #F1F5F9;   /* blanco suave */
+  --mv-text-strong:   #FFFFFF;
+  --mv-text-dim:      #94A3B8;   /* gris claro */
+  --mv-text-muted:    #64748B;
+  --mv-text-on-light: #0F172A;
+
+  /* ── Bordes / divisores ────────────────────────────────────── */
+  --mv-border:        rgba(241, 245, 249, 0.08);
+  --mv-border-strong: rgba(241, 245, 249, 0.16);
+
+  /* ── Sombras ───────────────────────────────────────────────── */
+  --mv-shadow-sm:  0 1px 2px rgba(0,0,0,0.18);
+  --mv-shadow-md:  0 4px 14px rgba(0,0,0,0.22);
+  --mv-shadow-lg:  0 12px 32px rgba(0,0,0,0.28);
+  --mv-shadow-green: 0 8px 24px rgba(32, 201, 151, 0.18);
+  --mv-shadow-blue:  0 8px 24px rgba(56, 189, 248, 0.18);
+  --mv-shadow-gold:  0 8px 24px rgba(250, 204, 21, 0.18);
+
+  /* ── Radios ────────────────────────────────────────────────── */
+  --mv-r-sm:   8px;
+  --mv-r-md:   12px;
+  --mv-r-lg:   16px;
+  --mv-r-xl:   22px;
+  --mv-r-pill: 999px;
+
+  /* ── Espacio ───────────────────────────────────────────────── */
+  --mv-space-1: 4px;
+  --mv-space-2: 8px;
+  --mv-space-3: 12px;
+  --mv-space-4: 16px;
+  --mv-space-5: 20px;
+  --mv-space-6: 24px;
+  --mv-space-8: 32px;
+  --mv-space-10: 40px;
+  --mv-space-12: 48px;
+
+  /* ── Anchuras máximas ──────────────────────────────────────── */
+  --mv-w-narrow: 720px;
+  --mv-w-base:   1100px;
+  --mv-w-wide:   1200px;
+  --mv-w-prose:  760px;
+
+  /* ── Tipografía ────────────────────────────────────────────── */
+  --mv-font:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+              "Helvetica Neue", Arial, sans-serif;
+  --mv-font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo,
+                  Consolas, "Liberation Mono", monospace;
+
+  /* ── Transiciones ──────────────────────────────────────────── */
+  --mv-t-fast:   140ms cubic-bezier(.2,.7,.3,1);
+  --mv-t-base:   220ms cubic-bezier(.2,.7,.3,1);
+  --mv-t-slow:   380ms cubic-bezier(.2,.7,.3,1);
+
+  /* ── Z-index ───────────────────────────────────────────────── */
+  --mv-z-nav:    50;
+  --mv-z-modal:  900;
+  --mv-z-toast:  1000;
+
+  /* ── Gradientes ────────────────────────────────────────────── */
+  --mv-grad-green: linear-gradient(135deg, #20C997 0%, #0E8F70 100%);
+  --mv-grad-blue:  linear-gradient(135deg, #38BDF8 0%, #1E6FB2 100%);
+  --mv-grad-gold:  linear-gradient(135deg, #FACC15 0%, #C49600 100%);
+  --mv-grad-hero:  linear-gradient(180deg, #071D2A 0%, #0A2333 60%, #071D2A 100%);
+}
+
+/* Si en el futuro queremos modo claro: */
+[data-theme="light"] {
+  /* placeholder — el rediseño actual es dark-first */
+}
