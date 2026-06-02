@@ -1,0 +1,15 @@
+# MundoVS — robots.txt
+# https://mundovs.com
+
+User-agent: *
+Allow: /
+
+# Rutas históricas del País del Día — noindex en el componente,
+# pero también las bloqueamos aquí para no desperdiciar crawl budget.
+Disallow: /pais-del-dia/dia/
+Disallow: /pais-del-dia/archivo
+
+# Evitar indexar assets de Next.js
+Disallow: /_next/
+
+Sitemap: https://mundovs.com/sitemap.xml
